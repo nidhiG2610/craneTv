@@ -1,13 +1,59 @@
-# .github/workflows/refresh-dramas.yml
-# Runs every Sunday at midnight — fetches fresh data, commits JSON
+# ─────────────────────────────────────────────────────────────────────────────
+# CraneTV — Weekly Drama Data Refresh
+# Runs every Sunday at midnight UTC
+# Also can be triggered manually from GitHub Actions tab
+# ─────────────────────────────────────────────────────────────────────────────
 name: Refresh Drama Data
+
 on:
   schedule:
-    - cron: '0 0 * * 0'   # Every Sunday midnight
+    - cron: '0 0 * * 0'     # Every Sunday at 00:00 UTC
+  workflow_dispatch:          # Allow manual trigger from GitHub UI
+
 jobs:
   refresh:
+    name: Fetch & Commit Drama Data
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - run: node scripts/fetchDramas.js
-      - run: git add public/data && git commit -m "Weekly drama refresh" && git push
+      # 1. Checkout the repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Run the fetch script via npm (mirrors your local command)
+      #    VITE_TMDB_TOKEN is stored as a GitHub Secret
+      - name: Fetch drama data from TMDB
+        env:
+          VITE_TMDB_TOKEN: ${{ secrets.VITE_TMDB_TOKEN }}
+        run: npm run fetch-dramas
+
+      # 5. Check if JSON files changed
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet public/data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      # 6. Commit and push updated JSON files
+      - name: Commit updated drama data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "CraneTV Bot"
+          git config user.email "bot@cranetv.com"
+          git add public/data/
+          git commit -m "🦢 Weekly drama data refresh — $(date -u '+%Y-%m-%d')"
+          git push
+
+      # 7. No changes — skip commit
+      - name: No changes detected
+        if: steps.changes.outputs.changed != 'true'
+        run: echo "✅ Drama data is already up to date. No commit needed."
