@@ -7,8 +7,8 @@ export function useDramas() {
 
   const loadDramas = async () => {
     try {
-      const response1 = await fetch('public/data/cdramas.json');
-      const response2 = await fetch('public/data/kdramas.json');
+      const response1 = await fetch('/data/cdramas.json');
+      const response2 = await fetch('/data/kdramas.json');
       if (!response1.ok) {
         throw new Error(`Failed with status ${response1.status}`);
       }
