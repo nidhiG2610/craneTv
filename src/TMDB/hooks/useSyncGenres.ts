@@ -14,9 +14,9 @@ export function useSyncGenres() {
 
   const loadData = async () => {
     try {
-      const response = await fetch('public/data/genres.json');
+      const response = await fetch('/data/genres.json');
       if (!response.ok) {
-        throw new Error(`Failed with status ${response.status}`);
+        console.log(`Failed with status ${response.status}`);
       }
       const data= await response.json();
       setGenres(data);
