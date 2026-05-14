@@ -1,0 +1,7 @@
+.env
+/node_modules
+.ssh
+.codex
+.agents
+todo.text
+dist

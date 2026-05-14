@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Goblin",
+        "country": "K",
+        "mood": "Dreamy",
+        "genre": "Fantasy",
+        "rating": "8.8",
+        "watch": "Viki",
+        "desc": "Melancholic fantasy with iconic chemistry and a rich emotional tone."
+    },
+    {
+        "title": "Kingdom",
+        "country": "K",
+        "mood": "Intense",
+        "genre": "Thriller",
+        "rating": "8.7",
+        "watch": "Netflix",
+        "desc": "Fast, sharp, and tense with palace politics and zombies."
+    },
+    {
+        "title": "Reply 1988",
+        "country": "K",
+        "mood": "Comfort",
+        "genre": "Slice of Life",
+        "rating": "9.1",
+        "watch": "Viki",
+        "desc": "Warm neighborhood storytelling that feels like home."
+    },
+    {
+        "title": "Love Between Fairy and Devil",
+        "country": "C",
+        "mood": "Dreamy",
+        "genre": "Fantasy",
+        "rating": "8.9",
+        "watch": "Netflix / iQIYI",
+        "desc": "Big emotions, beautiful styling, and fantasy romance done right."
+    },
+    {
+        "title": "The Untamed",
+        "country": "C",
+        "mood": "Epic",
+        "genre": "Costume",
+        "rating": "9.0",
+        "watch": "Netflix / WeTV",
+        "desc": "Beloved for its world-building, loyalty, and fan devotion."
+    },
+    {
+        "title": "Reset",
+        "country": "C",
+        "mood": "Intense",
+        "genre": "Sci-Fi",
+        "rating": "8.8",
+        "watch": "Viki",
+        "desc": "A gripping time-loop thriller with heart and strong pacing."
+    },
+    {
+        "title": "Meet Yourself",
+        "country": "C",
+        "mood": "Comfort",
+        "genre": "Slice of Life",
+        "rating": "8.7",
+        "watch": "Viki",
+        "desc": "Gentle healing energy, rural beauty, and slow-burn warmth."
+    },
+    {
+        "title": "Alchemy of Souls",
+        "country": "K",
+        "mood": "Epic",
+        "genre": "Costume",
+        "rating": "8.8",
+        "watch": "Netflix",
+        "desc": "Magic, political tension, and strong romantic payoff."
+    },
+    {
+        "title": "Someday or One Day",
+        "country": "C",
+        "mood": "Romantic",
+        "genre": "Sci-Fi",
+        "rating": "8.9",
+        "watch": "Viki",
+        "desc": "A time-bending romance with emotional depth and mystery."
+    }
+]

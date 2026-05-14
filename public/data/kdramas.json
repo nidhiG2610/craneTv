@@ -1,0 +1,4910 @@
+[
+  {
+    "id": 33238,
+    "title": "Running Man",
+    "originalTitle": "런닝맨",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.2,
+    "voteCount": 209,
+    "firstAired": "2010-07-11",
+    "year": "2010",
+    "genreIds": [
+      35,
+      10764
+    ],
+    "popularity": 102.1033,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Reality"
+    ]
+  },
+  {
+    "id": 200709,
+    "title": "Weak Hero",
+    "originalTitle": "약한영웅",
+    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "poster": "https://image.tmdb.org/t/p/w500/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+    "rating": 8.7,
+    "voteCount": 413,
+    "firstAired": "2022-11-18",
+    "year": "2022",
+    "genreIds": [
+      10759,
+      18
+    ],
+    "popularity": 65.4536,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 127529,
+    "title": "Bloodhounds",
+    "originalTitle": "사냥개들",
+    "overview": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
+    "poster": "https://image.tmdb.org/t/p/w500/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "rating": 8.4,
+    "voteCount": 660,
+    "firstAired": "2023-06-09",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10759,
+      80
+    ],
+    "popularity": 65.1043,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ]
+  },
+  {
+    "id": 93405,
+    "title": "Squid Game",
+    "originalTitle": "오징어 게임",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "rating": 7.9,
+    "voteCount": 17365,
+    "firstAired": "2021-09-17",
+    "year": "2021",
+    "genreIds": [
+      10759,
+      9648,
+      18
+    ],
+    "popularity": 62.3898,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 285838,
+    "title": "If Wishes Could Kill",
+    "originalTitle": "기리고",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "rating": 8.1,
+    "voteCount": 87,
+    "firstAired": "2026-04-24",
+    "year": "2026",
+    "genreIds": [
+      9648,
+      18
+    ],
+    "popularity": 52.2236,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 135157,
+    "title": "Alchemy of Souls",
+    "originalTitle": "환혼",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "poster": "https://image.tmdb.org/t/p/w500/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "rating": 8.6,
+    "voteCount": 765,
+    "firstAired": "2022-06-18",
+    "year": "2022",
+    "genreIds": [
+      18,
+      10765,
+      10759,
+      9648
+    ],
+    "popularity": 37.3535,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 96648,
+    "title": "Sweet Home",
+    "originalTitle": "스위트홈",
+    "overview": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+    "poster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+    "rating": 8.2,
+    "voteCount": 1554,
+    "firstAired": "2020-12-18",
+    "year": "2020",
+    "genreIds": [
+      10765,
+      10759
+    ],
+    "popularity": 31.4397,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 112888,
+    "title": "True Beauty",
+    "originalTitle": "여신강림",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "poster": "https://image.tmdb.org/t/p/w500/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "rating": 8.2,
+    "voteCount": 2618,
+    "firstAired": "2020-12-09",
+    "year": "2020",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 30.2633,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 219246,
+    "title": "When Life Gives You Tangerines",
+    "originalTitle": "폭싹 속았수다",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+    "rating": 8.7,
+    "voteCount": 516,
+    "firstAired": "2025-03-07",
+    "year": "2025",
+    "genreIds": [
+      18
+    ],
+    "popularity": 29.5098,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 99966,
+    "title": "All of Us Are Dead",
+    "originalTitle": "지금 우리 학교는",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "poster": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "rating": 8.3,
+    "voteCount": 4313,
+    "firstAired": "2022-01-28",
+    "year": "2022",
+    "genreIds": [
+      10759,
+      18,
+      10765
+    ],
+    "popularity": 26.2945,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 119769,
+    "title": "Taxi Driver",
+    "originalTitle": "모범택시",
+    "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
+    "poster": "https://image.tmdb.org/t/p/w500/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i1SyUHsi45psSH1xy9sM0in8FKJ.jpg",
+    "rating": 8.1,
+    "voteCount": 182,
+    "firstAired": "2021-04-09",
+    "year": "2021",
+    "genreIds": [
+      10759,
+      80,
+      18
+    ],
+    "popularity": 25.0115,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 113268,
+    "title": "The Uncanny Counter",
+    "originalTitle": "경이로운 소문",
+    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
+    "poster": "https://image.tmdb.org/t/p/w500/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
+    "rating": 8.3,
+    "voteCount": 422,
+    "firstAired": "2020-11-28",
+    "year": "2020",
+    "genreIds": [
+      18,
+      9648,
+      10759
+    ],
+    "popularity": 24.9468,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 68398,
+    "title": "Dr. Romantic",
+    "originalTitle": "낭만닥터 김사부",
+    "overview": "An eccentric, triple board-certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital, where he mentors young doctors.",
+    "poster": "https://image.tmdb.org/t/p/w500/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
+    "rating": 8.2,
+    "voteCount": 122,
+    "firstAired": "2016-11-07",
+    "year": "2016",
+    "genreIds": [
+      18
+    ],
+    "popularity": 24.5424,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 75820,
+    "title": "Mr. Sunshine",
+    "originalTitle": "미스터 션샤인",
+    "overview": "Set in the early 1900s, this drama tells the story of a young man from Korea who grows up in the United States. When he returns to Korea as a US Marine Corps officer, he meets and falls in love with a noblewoman who is fighting for Korean independence. Their romance is complicated by social class and political ideology.",
+    "poster": "https://image.tmdb.org/t/p/w500/p7ljjykSsiyWstGVAwIkbdfPzRV.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/p7ljjykSsiyWstGVAwIkbdfPzRV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gQwa6X2nmTHkmDgAifU4wacNqp4.jpg",
+    "rating": 8.4,
+    "voteCount": 181,
+    "firstAired": "2018-07-07",
+    "year": "2018",
+    "genreIds": [
+      18
+    ],
+    "popularity": 22.5355,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 238084,
+    "title": "Trigger",
+    "originalTitle": "트리거",
+    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "poster": "https://image.tmdb.org/t/p/w500/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+    "rating": 7.7,
+    "voteCount": 89,
+    "firstAired": "2025-07-25",
+    "year": "2025",
+    "genreIds": [
+      10759,
+      18,
+      80
+    ],
+    "popularity": 22.2474,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 218539,
+    "title": "My Demon",
+    "originalTitle": "마이데몬",
+    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+    "poster": "https://image.tmdb.org/t/p/w500/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
+    "rating": 8.5,
+    "voteCount": 641,
+    "firstAired": "2023-11-24",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 21.4996,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 117376,
+    "title": "Vincenzo",
+    "originalTitle": "빈센조",
+    "overview": "During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicinewith a side of justice.",
+    "poster": "https://image.tmdb.org/t/p/w500/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+    "rating": 8.5,
+    "voteCount": 1064,
+    "firstAired": "2021-02-20",
+    "year": "2021",
+    "genreIds": [
+      10759,
+      35,
+      18,
+      80
+    ],
+    "popularity": 20.8112,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 68814,
+    "title": "Strong Woman Do Bong-Soon",
+    "originalTitle": "힘쎈여자 도봉순",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "poster": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "rating": 8,
+    "voteCount": 303,
+    "firstAired": "2017-02-24",
+    "year": "2017",
+    "genreIds": [
+      35,
+      10759,
+      18
+    ],
+    "popularity": 19.9686,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 233347,
+    "title": "Study Group",
+    "originalTitle": "스터디그룹",
+    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+    "poster": "https://image.tmdb.org/t/p/w500/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9dyMCxaX9YgHLJ6KSMBeDQu16uW.jpg",
+    "rating": 8.5,
+    "voteCount": 110,
+    "firstAired": "2025-01-23",
+    "year": "2025",
+    "genreIds": [
+      10759,
+      35,
+      18
+    ],
+    "popularity": 19.5555,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 241454,
+    "title": "Love Next Door",
+    "originalTitle": "엄마친구아들",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "poster": "https://image.tmdb.org/t/p/w500/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "rating": 8,
+    "voteCount": 240,
+    "firstAired": "2024-08-17",
+    "year": "2024",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 19.112,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 126485,
+    "title": "Moving",
+    "originalTitle": "무빙",
+    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+    "poster": "https://image.tmdb.org/t/p/w500/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "rating": 8.5,
+    "voteCount": 282,
+    "firstAired": "2023-08-09",
+    "year": "2023",
+    "genreIds": [
+      9648,
+      18,
+      10759
+    ],
+    "popularity": 18.5319,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 96102,
+    "title": "Hospital Playlist",
+    "originalTitle": "슬기로운 의사생활",
+    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
+    "poster": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg",
+    "rating": 8.5,
+    "voteCount": 168,
+    "firstAired": "2020-03-12",
+    "year": "2020",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 18.3251,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 215720,
+    "title": "Queen of Tears",
+    "originalTitle": "눈물의 여왕",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "rating": 8.4,
+    "voteCount": 474,
+    "firstAired": "2024-03-09",
+    "year": "2024",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 17.995,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 228689,
+    "title": "Genie, Make a Wish",
+    "originalTitle": "다 이루어질지니",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "poster": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "rating": 7.5,
+    "voteCount": 110,
+    "firstAired": "2025-10-03",
+    "year": "2025",
+    "genreIds": [
+      10765,
+      35,
+      18
+    ],
+    "popularity": 17.9071,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 136283,
+    "title": "The Glory",
+    "originalTitle": "더 글로리",
+    "overview": "Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.",
+    "poster": "https://image.tmdb.org/t/p/w500/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "rating": 8.5,
+    "voteCount": 891,
+    "firstAired": "2022-12-30",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 17.8004,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 237565,
+    "title": "Family by Choice",
+    "originalTitle": "조립식 가족",
+    "overview": "A youth romance about two men and woman who aren't blood related but treated each other as family during their teens and how they meet again after 10 years.",
+    "poster": "https://image.tmdb.org/t/p/w500/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
+    "rating": 7.8,
+    "voteCount": 81,
+    "firstAired": "2024-10-09",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10751
+    ],
+    "popularity": 17.6761,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "id": 94796,
+    "title": "Crash Landing on You",
+    "originalTitle": "사랑의 불시착",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "poster": "https://image.tmdb.org/t/p/w500/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "rating": 8.5,
+    "voteCount": 911,
+    "firstAired": "2019-12-14",
+    "year": "2019",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 17.0594,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 128995,
+    "title": "Yumi's Cells",
+    "originalTitle": "유미의 세포들",
+    "overview": "Yumi is a 30-year old, ordinary woman who struggles with expressing her feelings. Told from the perspective of the many brain cells in her head, she experiences growth in both her love life, her career, and finds happiness in the small joys of everyday life.",
+    "poster": "https://image.tmdb.org/t/p/w500/wb0ysW1H4bjceY551Dh4VW2jOzF.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wb0ysW1H4bjceY551Dh4VW2jOzF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4TJG9k0u1WZfs9iwhLpHshnryaR.jpg",
+    "rating": 7.8,
+    "voteCount": 62,
+    "firstAired": "2021-09-17",
+    "year": "2021",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 16.5628,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 212204,
+    "title": "Twinkling Watermelon",
+    "originalTitle": "반짝이는 워터멜론",
+    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+    "poster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "rating": 8.8,
+    "voteCount": 153,
+    "firstAired": "2023-09-25",
+    "year": "2023",
+    "genreIds": [
+      10765,
+      18
+    ],
+    "popularity": 16.493,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 139798,
+    "title": "Single's Inferno",
+    "originalTitle": "솔로지옥",
+    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
+    "rating": 7.7,
+    "voteCount": 93,
+    "firstAired": "2021-12-18",
+    "year": "2021",
+    "genreIds": [
+      10764,
+      35,
+      10767
+    ],
+    "popularity": 16.0875,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Reality",
+      "Comedy",
+      "Talk"
+    ]
+  },
+  {
+    "id": 229915,
+    "title": "Night Has Come",
+    "originalTitle": "밤이 되었습니다",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "poster": "https://image.tmdb.org/t/p/w500/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "rating": 7.8,
+    "voteCount": 114,
+    "firstAired": "2023-12-04",
+    "year": "2023",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 15.8976,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 64010,
+    "title": "Reply 1988",
+    "originalTitle": "응답하라 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "poster": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "rating": 8.8,
+    "voteCount": 209,
+    "firstAired": "2015-11-06",
+    "year": "2015",
+    "genreIds": [
+      35
+    ],
+    "popularity": 15.7184,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "id": 155226,
+    "title": "Big Mouth",
+    "originalTitle": "빅마우스",
+    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "rating": 8.3,
+    "voteCount": 336,
+    "firstAired": "2022-07-29",
+    "year": "2022",
+    "genreIds": [
+      9648,
+      18,
+      80
+    ],
+    "popularity": 15.6201,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 198004,
+    "title": "King the Land",
+    "originalTitle": "킹더랜드",
+    "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
+    "poster": "https://image.tmdb.org/t/p/w500/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+    "rating": 8.2,
+    "voteCount": 599,
+    "firstAired": "2023-06-17",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 15.5324,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 99489,
+    "title": "The Penthouse",
+    "originalTitle": "펜트하우스",
+    "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+    "poster": "https://image.tmdb.org/t/p/w500/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+    "rating": 8.3,
+    "voteCount": 249,
+    "firstAired": "2020-10-26",
+    "year": "2020",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 15.3248,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 67915,
+    "title": "Guardian: The Lonely and Great God",
+    "originalTitle": "쓸쓸하고 찬란하神-도깨비",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "poster": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "rating": 8.6,
+    "voteCount": 3063,
+    "firstAired": "2016-12-02",
+    "year": "2016",
+    "genreIds": [
+      18,
+      10765,
+      35
+    ],
+    "popularity": 15.3104,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 154825,
+    "title": "Business Proposal",
+    "originalTitle": "사내맞선",
+    "overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO — and makes a proposal.",
+    "poster": "https://image.tmdb.org/t/p/w500/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg",
+    "rating": 8.4,
+    "voteCount": 731,
+    "firstAired": "2022-02-28",
+    "year": "2022",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 14.7691,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 280945,
+    "title": "Bon Appétit, Your Majesty",
+    "originalTitle": "폭군의 셰프",
+    "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+    "poster": "https://image.tmdb.org/t/p/w500/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+    "rating": 8.6,
+    "voteCount": 232,
+    "firstAired": "2025-08-23",
+    "year": "2025",
+    "genreIds": [
+      18,
+      10765
+    ],
+    "popularity": 14.6001,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 117378,
+    "title": "Mouse",
+    "originalTitle": "마우스",
+    "overview": "A psychopath's ruthless serial murders have left the entire nation gripped with fear and chaos. A honest and justice-seeking rookie police officer and a veteran detective with tragic past, face against the killer. After the encounter with the psychopath, their lives totally change.",
+    "poster": "https://image.tmdb.org/t/p/w500/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ikU9een11dr6UFy0XzQMJv3YJQq.jpg",
+    "rating": 8.4,
+    "voteCount": 316,
+    "firstAired": "2021-03-03",
+    "year": "2021",
+    "genreIds": [
+      80,
+      9648,
+      10765
+    ],
+    "popularity": 14.42,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 281013,
+    "title": "Dynamite Kiss",
+    "originalTitle": "키스는 괜히 해서!",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "poster": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "rating": 8,
+    "voteCount": 88,
+    "firstAired": "2025-11-12",
+    "year": "2025",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 14.2822,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 235577,
+    "title": "The Judge from Hell",
+    "originalTitle": "지옥에서 온 판사",
+    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
+    "poster": "https://image.tmdb.org/t/p/w500/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
+    "rating": 8.5,
+    "voteCount": 158,
+    "firstAired": "2024-09-21",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10765,
+      80,
+      9648
+    ],
+    "popularity": 13.7177,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 110534,
+    "title": "D.P.",
+    "originalTitle": "D.P.",
+    "overview": "A young private's assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.",
+    "poster": "https://image.tmdb.org/t/p/w500/akvPsqe1u1NpIQ8Ln2Vt06uhOv9.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/akvPsqe1u1NpIQ8Ln2Vt06uhOv9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kTf8vPcZVONrBHB35hEg1lG2Bk.jpg",
+    "rating": 8,
+    "voteCount": 259,
+    "firstAired": "2021-08-27",
+    "year": "2021",
+    "genreIds": [
+      18,
+      10759,
+      80
+    ],
+    "popularity": 13.4059,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ]
+  },
+  {
+    "id": 219651,
+    "title": "Welcome to Samdal-ri",
+    "originalTitle": "웰컴투 삼달리",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "poster": "https://image.tmdb.org/t/p/w500/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "rating": 8.2,
+    "voteCount": 134,
+    "firstAired": "2023-12-02",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 13.2938,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 239385,
+    "title": "The Manipulated",
+    "originalTitle": "조각도시",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "poster": "https://image.tmdb.org/t/p/w500/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "rating": 8.4,
+    "voteCount": 101,
+    "firstAired": "2025-11-05",
+    "year": "2025",
+    "genreIds": [
+      80,
+      18
+    ],
+    "popularity": 13.2353,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 61148,
+    "title": "Empress Ki",
+    "originalTitle": "기황후",
+    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
+    "poster": "https://image.tmdb.org/t/p/w500/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "rating": 7.4,
+    "voteCount": 64,
+    "firstAired": "2013-10-28",
+    "year": "2013",
+    "genreIds": [
+      18,
+      10768
+    ],
+    "popularity": 12.9562,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ]
+  },
+  {
+    "id": 48462,
+    "title": "The Heirs",
+    "originalTitle": "상속자들",
+    "overview": "After a chance encounter in LA, two teens from different social backgrounds reunite at an exclusive high school attended by Korea's über rich.",
+    "poster": "https://image.tmdb.org/t/p/w500/n4RX9QVXjHbMB31TDWqqRLjshgu.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/n4RX9QVXjHbMB31TDWqqRLjshgu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/asVatKAwDD1N5cx3v3GZkzdeVh0.jpg",
+    "rating": 7.8,
+    "voteCount": 659,
+    "firstAired": "2013-10-09",
+    "year": "2013",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 12.7181,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 197067,
+    "title": "Extraordinary Attorney Woo",
+    "originalTitle": "이상한 변호사 우영우",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "poster": "https://image.tmdb.org/t/p/w500/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
+    "rating": 8.5,
+    "voteCount": 924,
+    "firstAired": "2022-06-29",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 12.5374,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 231280,
+    "title": "Good Boy",
+    "originalTitle": "굿보이",
+    "overview": "Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices with their athletic skills.",
+    "poster": "https://image.tmdb.org/t/p/w500/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8l1BN0IIjHmRyW0oDfUfs3F6F4N.jpg",
+    "rating": 8.6,
+    "voteCount": 156,
+    "firstAired": "2025-05-31",
+    "year": "2025",
+    "genreIds": [
+      80,
+      35,
+      10759,
+      18
+    ],
+    "popularity": 12.4692,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 232766,
+    "title": "Mercy for None",
+    "originalTitle": "광장",
+    "overview": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
+    "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+    "rating": 7.7,
+    "voteCount": 153,
+    "firstAired": "2025-06-06",
+    "year": "2025",
+    "genreIds": [
+      10759,
+      18
+    ],
+    "popularity": 12.2209,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 158258,
+    "title": "Duty After School",
+    "originalTitle": "방과 후 전쟁활동",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "poster": "https://image.tmdb.org/t/p/w500/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "rating": 8.1,
+    "voteCount": 102,
+    "firstAired": "2023-03-31",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10765,
+      10759
+    ],
+    "popularity": 12.1757,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 7011,
+    "title": "Bernard",
+    "originalTitle": "Bernard",
+    "overview": "Bernard is a series of animated shorts centered on the fictional polar bear and main character of the same name. It is a Korean-Spanish-French co-production. Each three-minute episode focuses on the bear's curiosity and have many moments of slapstick. Bernard never speaks with the exception of unintelligible noises\n\nBernard is accompanied in the cartoons by a few other characters: Lloyd and Eva the penguins, Zack the lizard, Goliat the chihuahua, Sam the baby, Pilot the dog, Pokey the porcupine and Santa Claus. He usually gets knocked unconscious or severely injured at the end of an episode, due to some calamity caused by his bumbling",
+    "poster": "https://image.tmdb.org/t/p/w500/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dg1gRMrZIoZo2PmvqRAh6zxUSCC.jpg",
+    "rating": 5.6,
+    "voteCount": 50,
+    "firstAired": "2006-12-18",
+    "year": "2006",
+    "genreIds": [
+      16,
+      10762,
+      35,
+      10751
+    ],
+    "popularity": 12.1445,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "id": 222233,
+    "title": "Doctor Slump",
+    "originalTitle": "닥터 슬럼프",
+    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
+    "poster": "https://image.tmdb.org/t/p/w500/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
+    "rating": 8.1,
+    "voteCount": 134,
+    "firstAired": "2024-01-27",
+    "year": "2024",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 11.9946,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 233742,
+    "title": "Newtopia",
+    "originalTitle": "뉴토피아",
+    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
+    "poster": "https://image.tmdb.org/t/p/w500/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+    "rating": 7.9,
+    "voteCount": 204,
+    "firstAired": "2025-02-07",
+    "year": "2025",
+    "genreIds": [
+      10765,
+      10759,
+      35,
+      18
+    ],
+    "popularity": 11.8957,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 79434,
+    "title": "What's Wrong with Secretary Kim",
+    "originalTitle": "김비서가 왜 그럴까",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "poster": "https://image.tmdb.org/t/p/w500/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "rating": 8.3,
+    "voteCount": 698,
+    "firstAired": "2018-06-06",
+    "year": "2018",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 11.8634,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 281016,
+    "title": "Boyfriend on Demand",
+    "originalTitle": "월간남친",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
+    "rating": 8.2,
+    "voteCount": 105,
+    "firstAired": "2026-03-06",
+    "year": "2026",
+    "genreIds": [
+      35,
+      10765,
+      18
+    ],
+    "popularity": 11.8042,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 217553,
+    "title": "The Trauma Code: Heroes on Call",
+    "originalTitle": "중증외상센터",
+    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
+    "poster": "https://image.tmdb.org/t/p/w500/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+    "rating": 8.5,
+    "voteCount": 150,
+    "firstAired": "2025-01-24",
+    "year": "2025",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 11.7733,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 256226,
+    "title": "Dear X",
+    "originalTitle": "친애하는 X",
+    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+    "poster": "https://image.tmdb.org/t/p/w500/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2ED8o8nAdwvbvrkPyqUHBYa1xm8.jpg",
+    "rating": 8.3,
+    "voteCount": 81,
+    "firstAired": "2025-11-06",
+    "year": "2025",
+    "genreIds": [
+      18,
+      80
+    ],
+    "popularity": 11.7663,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 221851,
+    "title": "Marry My Husband",
+    "originalTitle": "내 남편과 결혼해줘",
+    "overview": "Kang Ji-won, a terminally ill cancer patient, is killed by her husband and best friend after she witnesses them having an affair. She wakes up 10 years before the incident and decides to seek revenge with the help of Yu Ji-hyuk, a director at the company where she works. Now, she must reclaim her fate and eliminate the trash from her life.",
+    "poster": "https://image.tmdb.org/t/p/w500/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
+    "rating": 8.4,
+    "voteCount": 661,
+    "firstAired": "2024-01-01",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10765,
+      35
+    ],
+    "popularity": 11.7601,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Jewel in the Palace",
+    "originalTitle": "대장금",
+    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
+    "poster": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
+    "rating": 8.5,
+    "voteCount": 274,
+    "firstAired": "2003-09-15",
+    "year": "2003",
+    "genreIds": [
+      18
+    ],
+    "popularity": 11.7574,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 280948,
+    "title": "Spring Fever",
+    "originalTitle": "스프링 피버",
+    "overview": "After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
+    "poster": "https://image.tmdb.org/t/p/w500/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
+    "rating": 7.8,
+    "voteCount": 60,
+    "firstAired": "2026-01-05",
+    "year": "2026",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 11.7375,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 208336,
+    "title": "Revenge of Others",
+    "originalTitle": "3인칭 복수",
+    "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
+    "poster": "https://image.tmdb.org/t/p/w500/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
+    "rating": 8.3,
+    "voteCount": 302,
+    "firstAired": "2022-11-09",
+    "year": "2022",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 11.7149,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 230923,
+    "title": "Lovely Runner",
+    "originalTitle": "선재 업고 튀어",
+    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+    "poster": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+    "rating": 8.5,
+    "voteCount": 260,
+    "firstAired": "2024-04-08",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10765,
+      35,
+      9648
+    ],
+    "popularity": 11.6829,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 129478,
+    "title": "The King's Affection",
+    "originalTitle": "연모",
+    "overview": "When the crown prince is killed, his twin sister assumes the throne while trying to keep her identity and affection for her first love a royal secret.",
+    "poster": "https://image.tmdb.org/t/p/w500/2Qim2grFzfNJ4h3QSTzxi8CsKdG.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/2Qim2grFzfNJ4h3QSTzxi8CsKdG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4r7scgI5aUrShN0YzriAatWd15e.jpg",
+    "rating": 8.1,
+    "voteCount": 295,
+    "firstAired": "2021-10-11",
+    "year": "2021",
+    "genreIds": [
+      18
+    ],
+    "popularity": 11.6595,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 70626,
+    "title": "Stranger",
+    "originalTitle": "비밀의 숲",
+    "overview": "Hwang Shi Mok underwent brain surgery as a child to curb his violent temper, which left him devoid of emotions. Hwang becomes a prosecutor known for his piercing intelligence and logic, but he is ostracized because he lacks empathy and social skills. He is also one of only a handful of upright prosecutors who have refused to take bribes. One day, he encounters a stabbing victim while investigating corruption. He meets Lieutenant Han Yeo Jin at the crime scene. They join forces to root out corruption at the prosecutors’ office and solve a serial murder case.",
+    "poster": "https://image.tmdb.org/t/p/w500/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xuf7G4srLSFcC7Q8YbX7HHEmXG2.jpg",
+    "rating": 8.3,
+    "voteCount": 204,
+    "firstAired": "2017-06-10",
+    "year": "2017",
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 11.6489,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 273977,
+    "title": "The Art of Sarah",
+    "originalTitle": "레이디 두아",
+    "overview": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?",
+    "poster": "https://image.tmdb.org/t/p/w500/8hZqZB4DAC1Ebzbk80zc0H80SNa.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8hZqZB4DAC1Ebzbk80zc0H80SNa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i9qVwQ2sNDkudbiApSXnUkZDolK.jpg",
+    "rating": 7.5,
+    "voteCount": 75,
+    "firstAired": "2026-02-13",
+    "year": "2026",
+    "genreIds": [
+      80,
+      9648,
+      18
+    ],
+    "popularity": 11.6323,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 76557,
+    "title": "Welcome to Waikiki",
+    "originalTitle": "으라차차 와이키키",
+    "overview": "Kang Dong-Goo dreams of becoming a movie director, but he is cynical due to bad luck. Cheon Joon-Ki wanted to follow in his father's footsteps and become an actor, but he is now just a minor actor. Bong-Doo-Sik came to Seoul to become a scenario writer, but things have not been easy for him.",
+    "poster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg",
+    "rating": 7.8,
+    "voteCount": 101,
+    "firstAired": "2018-02-05",
+    "year": "2018",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 11.4952,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 229891,
+    "title": "Can This Love Be Translated?",
+    "originalTitle": "이 사랑 통역 되나요?",
+    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+    "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+    "rating": 8.4,
+    "voteCount": 124,
+    "firstAired": "2026-01-16",
+    "year": "2026",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 11.1871,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 209110,
+    "title": "The Price of Confession",
+    "originalTitle": "자백의 대가",
+    "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+    "poster": "https://image.tmdb.org/t/p/w500/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kgqzwaOzgkaAj12XLYxgK5wB7XA.jpg",
+    "rating": 7.9,
+    "voteCount": 64,
+    "firstAired": "2025-12-05",
+    "year": "2025",
+    "genreIds": [
+      9648,
+      18
+    ],
+    "popularity": 11.1649,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 99047,
+    "title": "Record of Youth",
+    "originalTitle": "청춘기록",
+    "overview": "In a cutthroat world where the life you’re born into decides your success, three aspiring youths are determined to change that perception as they fight for their dreams.",
+    "poster": "https://image.tmdb.org/t/p/w500/54yTLS5d4OPOuunzOvHlmP82eIT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/54yTLS5d4OPOuunzOvHlmP82eIT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/18ypvPahjmmue1iR4N4YgTBrO8N.jpg",
+    "rating": 8.1,
+    "voteCount": 237,
+    "firstAired": "2020-09-07",
+    "year": "2020",
+    "genreIds": [
+      18
+    ],
+    "popularity": 11.0945,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 210704,
+    "title": "The Worst of Evil",
+    "originalTitle": "최악의 악",
+    "overview": "Set in the 1980s, a husband and wife, both detectives, infiltrate a massive criminal organization responsible for the illegal drug trade between Korea, China, and Japan.",
+    "poster": "https://image.tmdb.org/t/p/w500/uZJGMFgE1Q9xpncVAu1G3Vce4nP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/uZJGMFgE1Q9xpncVAu1G3Vce4nP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rwvpB0kuOCBCEtCs344sjkeVnJp.jpg",
+    "rating": 8.4,
+    "voteCount": 80,
+    "firstAired": "2023-09-27",
+    "year": "2023",
+    "genreIds": [
+      80,
+      10759,
+      18
+    ],
+    "popularity": 11.0935,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 128883,
+    "title": "Hometown Cha-Cha-Cha",
+    "originalTitle": "갯마을 차차차",
+    "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
+    "poster": "https://image.tmdb.org/t/p/w500/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+    "rating": 8.2,
+    "voteCount": 632,
+    "firstAired": "2021-08-28",
+    "year": "2021",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 11.0813,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 108261,
+    "title": "Mr. Queen",
+    "originalTitle": "철인왕후",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "poster": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "rating": 8.5,
+    "voteCount": 480,
+    "firstAired": "2020-12-12",
+    "year": "2020",
+    "genreIds": [
+      18,
+      35,
+      10765
+    ],
+    "popularity": 11.0617,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 227192,
+    "title": "Pyramid Game",
+    "originalTitle": "피라미드 게임",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "poster": "https://image.tmdb.org/t/p/w500/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "rating": 8,
+    "voteCount": 139,
+    "firstAired": "2024-02-29",
+    "year": "2024",
+    "genreIds": [
+      18
+    ],
+    "popularity": 10.8868,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 110356,
+    "title": "My Name",
+    "originalTitle": "마이 네임",
+    "overview": "Following her father's murder, a revenge-driven woman puts her trust in a powerful crime boss — and enters the police force under his direction.",
+    "poster": "https://image.tmdb.org/t/p/w500/gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+    "rating": 8.2,
+    "voteCount": 1040,
+    "firstAired": "2021-10-15",
+    "year": "2021",
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 10.8766,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 37722,
+    "title": "Dream High",
+    "originalTitle": "드림하이",
+    "overview": "Six dedicated students at Kirin Art High School work to achieve their dreams of becoming stars in the Korean music industry.",
+    "poster": "https://image.tmdb.org/t/p/w500/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ENWqq5onPtbOYSUXbB9fl7rV5h.jpg",
+    "rating": 6.9,
+    "voteCount": 87,
+    "firstAired": "2011-01-03",
+    "year": "2011",
+    "genreIds": [
+      18
+    ],
+    "popularity": 10.6688,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 16420,
+    "title": "Boys Over Flowers",
+    "originalTitle": "꽃보다 남자",
+    "overview": "Unassuming high school girl Jan-di stands up to — and eventually falls for — a spoiled rich kid who belongs to the school's most powerful clique.",
+    "poster": "https://image.tmdb.org/t/p/w500/ty8uAV6ihcpw6yfYoMxTulXZRYA.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ty8uAV6ihcpw6yfYoMxTulXZRYA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1lKn0qrRGEDZpQEcdRlIB4tZIr8.jpg",
+    "rating": 8.3,
+    "voteCount": 1818,
+    "firstAired": "2009-01-05",
+    "year": "2009",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 10.6493,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 70649,
+    "title": "While You Were Sleeping",
+    "originalTitle": "당신이 잠든 사이에",
+    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
+    "poster": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
+    "rating": 8.4,
+    "voteCount": 149,
+    "firstAired": "2017-09-27",
+    "year": "2017",
+    "genreIds": [
+      10765,
+      18
+    ],
+    "popularity": 10.4396,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 253905,
+    "title": "When the Phone Rings",
+    "originalTitle": "지금 거신 전화는",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "poster": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "rating": 8.3,
+    "voteCount": 286,
+    "firstAired": "2024-11-22",
+    "year": "2024",
+    "genreIds": [
+      18,
+      9648,
+      80
+    ],
+    "popularity": 10.3762,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ]
+  },
+  {
+    "id": 69087,
+    "title": "Voice",
+    "originalTitle": "보이스",
+    "overview": "It's 3 minutes for hearers, but a life for the callers. A crime thriller chasing even the slightest sounds to rescue people's lives calling for urgent help.",
+    "poster": "https://image.tmdb.org/t/p/w500/gMgzUEvNljCkNjUDlGaYyLn2zyz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gMgzUEvNljCkNjUDlGaYyLn2zyz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i8iujCYtGOG8f6ui90ADs5NxHKb.jpg",
+    "rating": 7.3,
+    "voteCount": 69,
+    "firstAired": "2017-01-14",
+    "year": "2017",
+    "genreIds": [
+      80,
+      18
+    ],
+    "popularity": 10.3668,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 66433,
+    "title": "Scarlet Heart: Ryeo",
+    "originalTitle": "달의 연인 - 보보경심 려",
+    "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
+    "poster": "https://image.tmdb.org/t/p/w500/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yMEHwomIKzfFEq0xaHVHtyEuKBM.jpg",
+    "rating": 8.5,
+    "voteCount": 568,
+    "firstAired": "2016-08-29",
+    "year": "2016",
+    "genreIds": [
+      18,
+      10765,
+      10768
+    ],
+    "popularity": 10.3654,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "War & Politics"
+    ]
+  },
+  {
+    "id": 281011,
+    "title": "Would You Marry Me?",
+    "originalTitle": "우주메리미",
+    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+    "poster": "https://image.tmdb.org/t/p/w500/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "rating": 7.8,
+    "voteCount": 61,
+    "firstAired": "2025-10-10",
+    "year": "2025",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 10.2664,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 203164,
+    "title": "Strong Girl Nam-soon",
+    "originalTitle": "힘쎈여자 강남순",
+    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "poster": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "rating": 7.7,
+    "voteCount": 147,
+    "firstAired": "2023-10-07",
+    "year": "2023",
+    "genreIds": [
+      35,
+      18,
+      10765,
+      80
+    ],
+    "popularity": 10.2048,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Crime"
+    ]
+  },
+  {
+    "id": 215001,
+    "title": "Destined with You",
+    "originalTitle": "이 연애는 불가항력",
+    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
+    "poster": "https://image.tmdb.org/t/p/w500/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
+    "rating": 8.1,
+    "voteCount": 228,
+    "firstAired": "2023-08-23",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10765,
+      35
+    ],
+    "popularity": 10.1795,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 65143,
+    "title": "Descendants of the Sun",
+    "originalTitle": "태양의 후예",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "poster": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "rating": 8.4,
+    "voteCount": 805,
+    "firstAired": "2016-02-24",
+    "year": "2016",
+    "genreIds": [
+      18,
+      10759
+    ],
+    "popularity": 10.1737,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 92983,
+    "title": "Vagabond",
+    "originalTitle": "배가본드",
+    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "rating": 8.3,
+    "voteCount": 498,
+    "firstAired": "2019-09-20",
+    "year": "2019",
+    "genreIds": [
+      18,
+      9648,
+      10759
+    ],
+    "popularity": 10.0888,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 66496,
+    "title": "Hwarang: The Poet Warrior Youth",
+    "originalTitle": "화랑",
+    "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
+    "poster": "https://image.tmdb.org/t/p/w500/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/col8IFqOjTZH6412I1bjum5MrL8.jpg",
+    "rating": 7.9,
+    "voteCount": 277,
+    "firstAired": "2016-12-19",
+    "year": "2016",
+    "genreIds": [
+      18,
+      35,
+      10759
+    ],
+    "popularity": 10.0659,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 70593,
+    "title": "Kingdom",
+    "originalTitle": "킹덤",
+    "overview": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+    "poster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+    "rating": 8.2,
+    "voteCount": 1200,
+    "firstAired": "2019-01-25",
+    "year": "2019",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 10.0567,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 135238,
+    "title": "Gyeongseong Creature",
+    "originalTitle": "경성크리처",
+    "overview": "Gyeongseong, 1945. In Seoul's grim era under colonial rule, an entrepreneur and a sleuth fight for survival and face a monster born out of human greed.",
+    "poster": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/peVe0NQNdZMXwtTohnv8iwJQb2d.jpg",
+    "rating": 7.9,
+    "voteCount": 307,
+    "firstAired": "2023-12-22",
+    "year": "2023",
+    "genreIds": [
+      10765,
+      9648,
+      10759,
+      18
+    ],
+    "popularity": 9.983,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 259015,
+    "title": "My Dearest Nemesis",
+    "originalTitle": "그놈은 흑염룡",
+    "overview": "Baek Su-jeong leads a planning team at a renowned department store. She meets her new boss, Ban Ju-yeon, her first love from an online game 16 years ago, stirring up memories of when he confessed his feelings but she rejected him.",
+    "poster": "https://image.tmdb.org/t/p/w500/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
+    "rating": 7.8,
+    "voteCount": 105,
+    "firstAired": "2025-02-17",
+    "year": "2025",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 9.8261,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 259288,
+    "title": "Friendly Rivalry",
+    "originalTitle": "선의의 경쟁",
+    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
+    "poster": "https://image.tmdb.org/t/p/w500/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+    "rating": 8.7,
+    "voteCount": 104,
+    "firstAired": "2025-02-10",
+    "year": "2025",
+    "genreIds": [
+      9648,
+      18
+    ],
+    "popularity": 9.8173,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 261980,
+    "title": "Our Unwritten Seoul",
+    "originalTitle": "미지의 서울",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "poster": "https://image.tmdb.org/t/p/w500/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "rating": 8.5,
+    "voteCount": 84,
+    "firstAired": "2025-05-24",
+    "year": "2025",
+    "genreIds": [
+      18
+    ],
+    "popularity": 9.7509,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 112836,
+    "title": "Money Heist: Korea - Joint Economic Area",
+    "originalTitle": "종이의 집: 공동경제구역",
+    "overview": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
+    "poster": "https://image.tmdb.org/t/p/w500/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+    "rating": 7.7,
+    "voteCount": 716,
+    "firstAired": "2022-06-24",
+    "year": "2022",
+    "genreIds": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "popularity": 9.6963,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 218230,
+    "title": "Death's Game",
+    "originalTitle": "이재, 곧 죽습니다",
+    "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+    "poster": "https://image.tmdb.org/t/p/w500/ecM5MY9g2mF6x5SrB2QWOYkcH98.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ecM5MY9g2mF6x5SrB2QWOYkcH98.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+    "rating": 8.4,
+    "voteCount": 628,
+    "firstAired": "2023-12-15",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10765
+    ],
+    "popularity": 9.6961,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 60957,
+    "title": "My Love from the Star",
+    "originalTitle": "별에서 온 그대",
+    "overview": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
+    "poster": "https://image.tmdb.org/t/p/w500/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
+    "rating": 8.3,
+    "voteCount": 809,
+    "firstAired": "2013-12-18",
+    "year": "2013",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 9.6035,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 129888,
+    "title": "Twenty Five Twenty One",
+    "originalTitle": "스물다섯 스물하나",
+    "overview": "In a time when dreams seem out of reach, a teen fencer pursues big ambitions and meets a hardworking young man who seeks to rebuild his life.",
+    "poster": "https://image.tmdb.org/t/p/w500/yCQFnmYhYf7XALMka2EoBRAFmPO.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/yCQFnmYhYf7XALMka2EoBRAFmPO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jvFfHNiCKPWRULvkmeocyjm4QtE.jpg",
+    "rating": 8.4,
+    "voteCount": 326,
+    "firstAired": "2022-02-12",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 9.5737,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 4734,
+    "title": "Jumong",
+    "originalTitle": "주몽",
+    "overview": "Jumong  examines the life of Jumong Taewang, founder of the kingdom of Goguryeo. Few details have been found in the historical record about Jumong, so much of the series is fictionalized.",
+    "poster": "https://image.tmdb.org/t/p/w500/oJj4tsSLu65tjcCx5yqHECfehD5.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/oJj4tsSLu65tjcCx5yqHECfehD5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lTMZILzENFZm9b0Qs6ry4Rg6Z7T.jpg",
+    "rating": 7.3,
+    "voteCount": 52,
+    "firstAired": "2006-05-15",
+    "year": "2006",
+    "genreIds": [
+      10768,
+      18
+    ],
+    "popularity": 9.4882,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "War & Politics",
+      "Drama"
+    ]
+  },
+  {
+    "id": 88463,
+    "title": "Arthdal Chronicles",
+    "originalTitle": "아스달 연대기",
+    "overview": "In a mythical land called Arth, the inhabitants of the ancient city of Arthdal and its surrounding regions vie for power as they build a new society.",
+    "poster": "https://image.tmdb.org/t/p/w500/k5bKj5U2Z7AgkK3Mekji8xDHOuD.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/k5bKj5U2Z7AgkK3Mekji8xDHOuD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uDSnb7xvPziZedUzlrz3Za0YOz7.jpg",
+    "rating": 7.6,
+    "voteCount": 85,
+    "firstAired": "2019-06-01",
+    "year": "2019",
+    "genreIds": [
+      18,
+      10759
+    ],
+    "popularity": 9.3766,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 96462,
+    "title": "It's Okay to Not Be Okay",
+    "originalTitle": "사이코지만 괜찮아",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "poster": "https://image.tmdb.org/t/p/w500/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "rating": 8.5,
+    "voteCount": 1469,
+    "firstAired": "2020-06-20",
+    "year": "2020",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 9.3294,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 215072,
+    "title": "A Shop for Killers",
+    "originalTitle": "킬러들의 쇼핑몰",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "rating": 8.3,
+    "voteCount": 155,
+    "firstAired": "2024-01-17",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10759,
+      9648,
+      80
+    ],
+    "popularity": 9.2698,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Mystery",
+      "Crime"
+    ]
+  },
+  {
+    "id": 90447,
+    "title": "Hotel Del Luna",
+    "originalTitle": "호텔 델루나",
+    "overview": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+    "poster": "https://image.tmdb.org/t/p/w500/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+    "rating": 8.5,
+    "voteCount": 617,
+    "firstAired": "2019-07-12",
+    "year": "2019",
+    "genreIds": [
+      10765,
+      18,
+      35
+    ],
+    "popularity": 9.2624,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 230448,
+    "title": "Mr. Plankton",
+    "originalTitle": "Mr. 플랑크톤",
+    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
+    "poster": "https://image.tmdb.org/t/p/w500/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+    "rating": 8.1,
+    "voteCount": 119,
+    "firstAired": "2024-11-08",
+    "year": "2024",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 9.242,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 86830,
+    "title": "The Fiery Priest",
+    "originalTitle": "열혈사제",
+    "overview": "People commit variety of ugly crimes these days. However, they forgive themselves by giving testimony every week. They believe that they can repent just by having faith. But the truth is that they have faith to repeat the sins again and again without remorse. These people atone for their evil deeds just to feel comfortable and carefree. It is not about the victims who are suffering because of them. They say every people are equal before the religions. But it is time to discriminate people who only uses them for their interest. Screening if they are really good people, punishing if they deserve to be punished, and defending justice is needed for modern day religion. A priest with this sense of justice teams up with a detective and a prosecutor. They try to solve the mysterious death of an elderly priest and serve justice.",
+    "poster": "https://image.tmdb.org/t/p/w500/5EDJlbB3S1vwOpsR3h1k0NMHiHY.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/5EDJlbB3S1vwOpsR3h1k0NMHiHY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dMQmCThNrnlNd4bfC8iIce76bpr.jpg",
+    "rating": 8.2,
+    "voteCount": 57,
+    "firstAired": "2019-02-15",
+    "year": "2019",
+    "genreIds": [
+      80,
+      35,
+      18
+    ],
+    "popularity": 9.2323,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 205319,
+    "title": "Daily Dose of Sunshine",
+    "originalTitle": "정신병동에도 아침이 와요",
+    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
+    "poster": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
+    "rating": 8.2,
+    "voteCount": 129,
+    "firstAired": "2023-11-03",
+    "year": "2023",
+    "genreIds": [
+      18
+    ],
+    "popularity": 9.0006,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 98827,
+    "title": "Backstreet Rookie",
+    "originalTitle": "Rene peech",
+    "overview": "It tells an unpredictable 24-hour love story of the four-dimensional innocent girl Jung Saet Byeol who was once a troublemaker and the adorkable caring male store manager, Choi Dae Hyun, in the context of a convenience store. They have met each other accidentally 4 years ago, back then Saet Byeol asked Dae Hyun to buy cigarettes for them. Until now, Saet Byeol comes to the convenience store Dae Hyun runs for a part-time job, their hilarious romantic story starts.",
+    "poster": "https://image.tmdb.org/t/p/w500/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/876IYhxt8dcCuvhmeV7Pqeo30bm.jpg",
+    "rating": 7.5,
+    "voteCount": 142,
+    "firstAired": "2020-06-19",
+    "year": "2020",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 8.9275,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 66329,
+    "title": "Doctors",
+    "originalTitle": "닥터스",
+    "overview": "A recalcitrant, delinquent teen girl meets a compassionate teacher, who inspires her to alter her path and become a street-savvy neurosurgeon.",
+    "poster": "https://image.tmdb.org/t/p/w500/peqebnxcF1IjvdrL3K97cCbJNnk.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/peqebnxcF1IjvdrL3K97cCbJNnk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fbAQzJw2mLYmf39L0c1SvijDwwv.jpg",
+    "rating": 8.2,
+    "voteCount": 326,
+    "firstAired": "2016-06-20",
+    "year": "2016",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 8.9273,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 245684,
+    "title": "Culinary Class Wars",
+    "originalTitle": "흑백요리사: 요리 계급 전쟁",
+    "overview": "Eighty \"Black Spoon\" underdog cooks with a knack for flavor face 20 elite \"White Spoon\" chefs in a fierce cooking showdown among 100 contenders.",
+    "poster": "https://image.tmdb.org/t/p/w500/dYMFQfzIJwCYAHwf3ZjiL2iVFIy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/dYMFQfzIJwCYAHwf3ZjiL2iVFIy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p63GY5JaHX4fine4fgQkhSoqc6r.jpg",
+    "rating": 8.3,
+    "voteCount": 71,
+    "firstAired": "2024-09-17",
+    "year": "2024",
+    "genreIds": [
+      10764
+    ],
+    "popularity": 8.9026,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Reality"
+    ]
+  },
+  {
+    "id": 67391,
+    "title": "The K2",
+    "originalTitle": "더케이투",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "rating": 7.7,
+    "voteCount": 185,
+    "firstAired": "2016-09-23",
+    "year": "2016",
+    "genreIds": [
+      10759,
+      18,
+      80
+    ],
+    "popularity": 8.7017,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 201019,
+    "title": "Tale of the Nine Tailed 1938",
+    "originalTitle": "구미호뎐1938",
+    "overview": "The Nine-tailed fox makes a crash landing in the year 1938, an era of chaos, and he struggles to return to the present.",
+    "poster": "https://image.tmdb.org/t/p/w500/xB55oDrJiIYn2yeC9YNy1KJ4rl5.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xB55oDrJiIYn2yeC9YNy1KJ4rl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A09zpl9P997q9Q6fDvLqch3RlC4.jpg",
+    "rating": 8.1,
+    "voteCount": 83,
+    "firstAired": "2023-05-06",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10765,
+      10759
+    ],
+    "popularity": 8.6597,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 214582,
+    "title": "The Devil's Plan",
+    "originalTitle": "데블스 플랜",
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "poster": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+    "rating": 7.7,
+    "voteCount": 107,
+    "firstAired": "2023-09-26",
+    "year": "2023",
+    "genreIds": [
+      10764
+    ],
+    "popularity": 8.6413,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Reality"
+    ]
+  },
+  {
+    "id": 106651,
+    "title": "Hellbound",
+    "originalTitle": "지옥",
+    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+    "poster": "https://image.tmdb.org/t/p/w500/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+    "rating": 7.3,
+    "voteCount": 988,
+    "firstAired": "2021-11-19",
+    "year": "2021",
+    "genreIds": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 8.6391,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 229480,
+    "title": "No Gain No Love",
+    "originalTitle": "손해 보기 싫어서",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "poster": "https://image.tmdb.org/t/p/w500/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "rating": 8.5,
+    "voteCount": 272,
+    "firstAired": "2024-08-26",
+    "year": "2024",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 8.5086,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 226527,
+    "title": "Hierarchy",
+    "originalTitle": "하이라키",
+    "overview": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
+    "poster": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bG6eCywmJT81OjhBG4qj9M2ErnY.jpg",
+    "rating": 7.6,
+    "voteCount": 175,
+    "firstAired": "2024-06-07",
+    "year": "2024",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.4932,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 93846,
+    "title": "The King: Eternal Monarch",
+    "originalTitle": "더 킹 : 영원의 군주",
+    "overview": "Korean emperor Lee Gon tries to close the doors to a parallel world which was opened by demons; a detective tries to protect the people and the one she loves.",
+    "poster": "https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bgTm5TTI6uoY0RbLA3Fbl5z32JG.jpg",
+    "rating": 8.3,
+    "voteCount": 896,
+    "firstAired": "2020-04-17",
+    "year": "2020",
+    "genreIds": [
+      10765,
+      18
+    ],
+    "popularity": 8.4413,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 235355,
+    "title": "Resident Playbook",
+    "originalTitle": "언젠가는 슬기로울 전공의생활",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "poster": "https://image.tmdb.org/t/p/w500/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "rating": 8,
+    "voteCount": 57,
+    "firstAired": "2025-04-12",
+    "year": "2025",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.4386,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 135840,
+    "title": "Our Blues",
+    "originalTitle": "우리들의 블루스",
+    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
+    "poster": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
+    "rating": 8.4,
+    "voteCount": 80,
+    "firstAired": "2022-04-09",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.3133,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 209275,
+    "title": "May I Help You?",
+    "originalTitle": "일당백집사",
+    "overview": "Baek Dong Joo, a newly hired funeral director, has the uncanny gift, or curse, to momentarily resurrect and talk to the recently deceased. She has to grant their last wishes or have her days be filled with a series of bad luck and accidents. And helping the little boy that first terrified her when he came to life will lead her down a path she never could have expected.\n\nKim Tae Hee works as a man for hire. Employed by his uncle Vincent running the newly opened errand service company “A Dime A Job” he can be hired for any odd (but legal) task.  One day, Kim Tae Hee encounters Baek Dong Joo, when he is hired by her boyfriend to break up with her in his stead. After that, their paths continue to cross, and by the virtue of their jobs, their fates get intertwined deeper and deeper in a series of life and death situations, surrounding the wishes of the people who had died, and the painful past it is going to unravel for both of them.",
+    "poster": "https://image.tmdb.org/t/p/w500/5raBam3P9PypmcNsK7RDgyC5wAm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/5raBam3P9PypmcNsK7RDgyC5wAm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wDjoR40ues797wYVeJYB1Vx5pUC.jpg",
+    "rating": 7.8,
+    "voteCount": 50,
+    "firstAired": "2022-10-19",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.2226,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 93097,
+    "title": "When the Camellia Blooms",
+    "originalTitle": "동백꽃 필 무렵",
+    "overview": "Dongbaek is a single mother. When a potential new love enters her life, she finds ways to defy the social stigmas surrounding her.",
+    "poster": "https://image.tmdb.org/t/p/w500/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7OCAlRz13R9HZIbXTNUfyEAYyvf.jpg",
+    "rating": 8.2,
+    "voteCount": 66,
+    "firstAired": "2019-09-18",
+    "year": "2019",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 8.1585,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 90721,
+    "title": "Rookie Historian Goo Hae-Ryung",
+    "originalTitle": "신입사관 구해령",
+    "overview": "The story takes place at the beginning of the 19th century. Goo Hae-Ryung is a historian who tries to fight gender stereotypes as her work is often looked down on. She meets Prince Yi Rim.",
+    "poster": "https://image.tmdb.org/t/p/w500/ijHgv6ZbvW4ZUu2QbHwOSb3YPTK.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ijHgv6ZbvW4ZUu2QbHwOSb3YPTK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oBLzaHvZfTmZlNQeRF1ZouX4WjK.jpg",
+    "rating": 7.6,
+    "voteCount": 75,
+    "firstAired": "2019-07-17",
+    "year": "2019",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.1243,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 108291,
+    "title": "Snowdrop",
+    "originalTitle": "설강화",
+    "overview": "An enduring love story in 1987 Seoul; Young-ro, a female university student, treats the bleeding Soo-ho, a student attending a prestigious university, who one day jumps into a women's university dormitory despite the dangerous situation.",
+    "poster": "https://image.tmdb.org/t/p/w500/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
+    "rating": 8.5,
+    "voteCount": 311,
+    "firstAired": "2021-12-18",
+    "year": "2021",
+    "genreIds": [
+      18,
+      10768
+    ],
+    "popularity": 8.1141,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ]
+  },
+  {
+    "id": 66330,
+    "title": "W: Two Worlds Apart",
+    "originalTitle": "W(더블유)",
+    "overview": "After being pulled into the webtoon world created by her father, a surgical resident gets entangled in a murder mystery involving the story's hero.",
+    "poster": "https://image.tmdb.org/t/p/w500/tmth5NFE7IaRi9Ug39DV4NOQuFG.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/tmth5NFE7IaRi9Ug39DV4NOQuFG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iOyiuJhKlKY4tVT8EfJ1GwnM2By.jpg",
+    "rating": 8.5,
+    "voteCount": 964,
+    "firstAired": "2016-07-20",
+    "year": "2016",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 8.0952,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 297424,
+    "title": "Our Universe",
+    "originalTitle": "우주를 줄게",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "poster": "https://image.tmdb.org/t/p/w500/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "rating": 7.8,
+    "voteCount": 63,
+    "firstAired": "2026-02-04",
+    "year": "2026",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 8.0891,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 89959,
+    "title": "Strangers from Hell",
+    "originalTitle": "타인은 지옥이다",
+    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
+    "poster": "https://image.tmdb.org/t/p/w500/o66rEzPzZZWxSrcus2f46CedHhq.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/o66rEzPzZZWxSrcus2f46CedHhq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d607EV6DKTPv9QajQ3sSRJhG3dJ.jpg",
+    "rating": 8,
+    "voteCount": 136,
+    "firstAired": "2019-08-31",
+    "year": "2019",
+    "genreIds": [
+      9648,
+      18
+    ],
+    "popularity": 8.0176,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 126035,
+    "title": "Nevertheless,",
+    "originalTitle": "알고있지만,",
+    "overview": "The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.",
+    "poster": "https://image.tmdb.org/t/p/w500/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cPLtnxTlFpCIyH6AkGNuGCluvY1.jpg",
+    "rating": 7.3,
+    "voteCount": 220,
+    "firstAired": "2021-06-19",
+    "year": "2021",
+    "genreIds": [
+      18
+    ],
+    "popularity": 7.9076,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 238458,
+    "title": "Cashero",
+    "originalTitle": "캐셔로",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "poster": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "rating": 7.3,
+    "voteCount": 74,
+    "firstAired": "2025-12-26",
+    "year": "2025",
+    "genreIds": [
+      10759,
+      18
+    ],
+    "popularity": 7.8843,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 205082,
+    "title": "Vigilante",
+    "originalTitle": "비질란테",
+    "overview": "Kim Ji-yong leads a double life as a Korean National Police University student by day and the Vigilante by night, personally punishing criminals who evade the law. He is surrounded by people who all possess different ulterior motives.",
+    "poster": "https://image.tmdb.org/t/p/w500/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "rating": 8.4,
+    "voteCount": 101,
+    "firstAired": "2023-11-08",
+    "year": "2023",
+    "genreIds": [
+      80,
+      10759,
+      18
+    ],
+    "popularity": 7.8657,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 248244,
+    "title": "Undercover High School",
+    "originalTitle": "언더커버 하이스쿨",
+    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
+    "poster": "https://image.tmdb.org/t/p/w500/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+    "rating": 7.9,
+    "voteCount": 55,
+    "firstAired": "2025-02-21",
+    "year": "2025",
+    "genreIds": [
+      10759,
+      35,
+      18
+    ],
+    "popularity": 7.8612,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 281006,
+    "title": "Tastefully Yours",
+    "originalTitle": "당신의 맛",
+    "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
+    "poster": "https://image.tmdb.org/t/p/w500/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
+    "rating": 8.3,
+    "voteCount": 69,
+    "firstAired": "2025-05-12",
+    "year": "2025",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.8029,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 96162,
+    "title": "Itaewon Class",
+    "originalTitle": "이태원 클라쓰",
+    "overview": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
+    "poster": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
+    "rating": 8.4,
+    "voteCount": 398,
+    "firstAired": "2020-01-31",
+    "year": "2020",
+    "genreIds": [
+      18
+    ],
+    "popularity": 7.7933,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 135340,
+    "title": "Happiness",
+    "originalTitle": "해피니스",
+    "overview": "A new type of deadly virus spread throughout the city, and the apartment where has different social classes of people is sealed off. With the fear of the virus, and the conflicts of the different classes, the residents have to spend and survive in the new habitation.",
+    "poster": "https://image.tmdb.org/t/p/w500/8EnkVJwDP2QSJqOKte9EUjYKu4C.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8EnkVJwDP2QSJqOKte9EUjYKu4C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i7l9C11wZ44e7nUqqlBIxbv3GcN.jpg",
+    "rating": 8.1,
+    "voteCount": 558,
+    "firstAired": "2021-11-05",
+    "year": "2021",
+    "genreIds": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 7.7924,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 112833,
+    "title": "Juvenile Justice",
+    "originalTitle": "소년심판",
+    "overview": "A tough judge balances her aversion to minor offenders with firm beliefs on justice and punishment as she tackles complex cases inside a juvenile court.",
+    "poster": "https://image.tmdb.org/t/p/w500/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+    "rating": 8,
+    "voteCount": 230,
+    "firstAired": "2022-02-25",
+    "year": "2022",
+    "genreIds": [
+      18,
+      80
+    ],
+    "popularity": 7.7809,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 152511,
+    "title": "Forecasting Love and Weather",
+    "originalTitle": "기상청 사람들: 사내연애 잔혹사 편",
+    "overview": "Inside a national weather service, love proves just as difficult to predict as rain or shine for a diligent forecaster and her free-spirited co-worker.",
+    "poster": "https://image.tmdb.org/t/p/w500/3Qfh99m0jShWrqlFRsnWY7HeHNX.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/3Qfh99m0jShWrqlFRsnWY7HeHNX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g76OvRFFDgMBmjFbY2FNRjzfZkN.jpg",
+    "rating": 7.2,
+    "voteCount": 132,
+    "firstAired": "2022-02-12",
+    "year": "2022",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 7.7215,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 226529,
+    "title": "Light Shop",
+    "originalTitle": "조명가게",
+    "overview": "In a mysterious shop that sells lamps, the dead may return to the world of the living, while the living may not walk out alive.",
+    "poster": "https://image.tmdb.org/t/p/w500/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bGcMuFVzW0LitMJWSzp4EjmzQ0b.jpg",
+    "rating": 8.4,
+    "voteCount": 243,
+    "firstAired": "2024-12-04",
+    "year": "2024",
+    "genreIds": [
+      9648,
+      18
+    ],
+    "popularity": 7.6687,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 76662,
+    "title": "My Mister",
+    "originalTitle": "나의 아저씨",
+    "overview": "In a world that is less than kind, a young woman and a middle-aged man develop a sense of kinship as they find warmth and comfort in one another.",
+    "poster": "https://image.tmdb.org/t/p/w500/o5cBRMF6syh4yUBgZ2Ust8LvcxA.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/o5cBRMF6syh4yUBgZ2Ust8LvcxA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
+    "rating": 8.6,
+    "voteCount": 193,
+    "firstAired": "2018-03-21",
+    "year": "2018",
+    "genreIds": [
+      18
+    ],
+    "popularity": 7.6567,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 61678,
+    "title": "Incomplete Life",
+    "originalTitle": "미생",
+    "overview": "Since he was a child, the board game baduk has been everything to Jang Geu-rae. But when he fails at achieving his dream of becoming a professional baduk player, Geu-rae must leave his isolated existence and enter the real world armed with nothing but a high school equivalency exam on his resume.",
+    "poster": "https://image.tmdb.org/t/p/w500/2ZAquQpSHOBWZNjPM0jmqqKv8X8.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/2ZAquQpSHOBWZNjPM0jmqqKv8X8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b4UmLXS2GZ0dRr6jC3Kv2LpGpgK.jpg",
+    "rating": 8.6,
+    "voteCount": 75,
+    "firstAired": "2014-10-17",
+    "year": "2014",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.6004,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 93541,
+    "title": "The Tale of Nokdu",
+    "originalTitle": "조선로코 - 녹두전",
+    "overview": "While on the run for his life, a young man discovers that the best place to lie low is in a village of widows — disguised as a woman.",
+    "poster": "https://image.tmdb.org/t/p/w500/r8BhphHIruCL2jM4sd1Zs6sMJov.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/r8BhphHIruCL2jM4sd1Zs6sMJov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jCua4hbhQbBou4y8BXayjLQADRl.jpg",
+    "rating": 7,
+    "voteCount": 83,
+    "firstAired": "2019-09-30",
+    "year": "2019",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.598,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 116612,
+    "title": "Beyond Evil",
+    "originalTitle": "괴물",
+    "overview": "As a killing resembling a cold case resurfaces in a small town, the chase for the truth falls on two policemen who each harbor secrets of their own.",
+    "poster": "https://image.tmdb.org/t/p/w500/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
+    "rating": 8.5,
+    "voteCount": 184,
+    "firstAired": "2021-02-19",
+    "year": "2021",
+    "genreIds": [
+      18,
+      80,
+      9648
+    ],
+    "popularity": 7.5778,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 71349,
+    "title": "Suspicious Partner",
+    "originalTitle": "수상한 파트너",
+    "overview": "No Ji-Wook is a prosecutor in the Central District Prosecutors’ Office who ends up switching professions to a private attorney. He harbors a trauma stemming from an event in his childhood involving his parents and his first love. Eun Bong-Hee, a Taekwondo athlete in her youth, is a prosecutor trainee who has become a murder suspect. Eun Bong-Hee and No Ji-Wook both find themselves being the focus of a killer.",
+    "poster": "https://image.tmdb.org/t/p/w500/kCxkfGu1QYQx5wZRKlZK41Tif9Q.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/kCxkfGu1QYQx5wZRKlZK41Tif9Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qzw3CA3AqrLsBa25XUjLLpkWrAk.jpg",
+    "rating": 7.8,
+    "voteCount": 166,
+    "firstAired": "2017-05-10",
+    "year": "2017",
+    "genreIds": [
+      35,
+      80,
+      18
+    ],
+    "popularity": 7.5653,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 3215,
+    "title": "Coffee Prince",
+    "originalTitle": "커피프린스 1호점",
+    "overview": "Han Kyul gives his family's café a new spin, hiring only good-looking men to work there -- plus an androgynous-looking girl he mistakes for a man.",
+    "poster": "https://image.tmdb.org/t/p/w500/6tKNlAXwKfRzLeuBOomr1N9gRsU.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/6tKNlAXwKfRzLeuBOomr1N9gRsU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3Ujyp6wzwcfPp76K7XqP5CYYxPE.jpg",
+    "rating": 8.2,
+    "voteCount": 278,
+    "firstAired": "2007-07-02",
+    "year": "2007",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.4991,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 74821,
+    "title": "Prison Playbook",
+    "originalTitle": "슬기로운 감빵생활",
+    "overview": "With his major league baseball debut right around the corner, a star pitcher lands in prison and must learn to navigate his new world.",
+    "poster": "https://image.tmdb.org/t/p/w500/vlPZbMxbEAxQG67TOAYFMYwMBjo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/vlPZbMxbEAxQG67TOAYFMYwMBjo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kdsvRpXal5Xa1Ldq7m2qzQmYsBa.jpg",
+    "rating": 8.3,
+    "voteCount": 101,
+    "firstAired": "2017-11-22",
+    "year": "2017",
+    "genreIds": [
+      18,
+      80
+    ],
+    "popularity": 7.4061,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 85404,
+    "title": "Touch Your Heart",
+    "originalTitle": "진심이 닿다",
+    "overview": "Hoping to make a comeback after a bad scandal, an actress agrees to research a new role by taking a job as a secretary for a prickly attorney.",
+    "poster": "https://image.tmdb.org/t/p/w500/kVFflfTOFqFBh34jcVRI1QCWSre.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/kVFflfTOFqFBh34jcVRI1QCWSre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5kOKNntEPrnq8LRtjC9vXAUueut.jpg",
+    "rating": 8.3,
+    "voteCount": 360,
+    "firstAired": "2019-02-06",
+    "year": "2019",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.3514,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 202318,
+    "title": "Crash Course in Romance",
+    "originalTitle": "일타 스캔들",
+    "overview": "The series follows the bittersweet relationship between a banchan shop owner whose daughter enters the war of Korea's college entrance exams, and a top hagwon instructor.",
+    "poster": "https://image.tmdb.org/t/p/w500/88rQREli2xtoDV6HToJysp71ZL7.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/88rQREli2xtoDV6HToJysp71ZL7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
+    "rating": 8.2,
+    "voteCount": 126,
+    "firstAired": "2023-01-14",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 7.3458,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 78869,
+    "title": "Clean with Passion for Now",
+    "originalTitle": "일단 뜨겁게 청소하라",
+    "overview": "Gil Oh-so, an employee at a cleaning company, meets Jang Seon-gyul, the boss of the company. The two are diametric opposite when it comes to cleanliness. With the help of Oh-sol, Seon-gyul faces his mysophobia and falls in love with her.",
+    "poster": "https://image.tmdb.org/t/p/w500/6ig2QeFmZuiHi07wpD4OULQiUmx.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/6ig2QeFmZuiHi07wpD4OULQiUmx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qrWC0j3M3mGCTaD7YFTn37niUXc.jpg",
+    "rating": 7.4,
+    "voteCount": 67,
+    "firstAired": "2018-11-26",
+    "year": "2018",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.3124,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 227191,
+    "title": "Nine Puzzles",
+    "originalTitle": "나인 퍼즐",
+    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+    "poster": "https://image.tmdb.org/t/p/w500/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
+    "rating": 7.9,
+    "voteCount": 73,
+    "firstAired": "2025-05-21",
+    "year": "2025",
+    "genreIds": [
+      80,
+      9648
+    ],
+    "popularity": 7.2883,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 208825,
+    "title": "Parasyte: The Grey",
+    "originalTitle": "기생수: 더 그레이",
+    "overview": "When unidentified parasites violently take over human hosts and gain power, humanity must rise to combat the growing threat.",
+    "poster": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+    "rating": 7.4,
+    "voteCount": 312,
+    "firstAired": "2024-04-05",
+    "year": "2024",
+    "genreIds": [
+      10765,
+      10759,
+      18
+    ],
+    "popularity": 7.2606,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 77696,
+    "title": "Run BTS!",
+    "originalTitle": "달려라 방탄!",
+    "overview": "Run BTS! is a variety web series starring BTS, broadcasting intermittent for free viewing on Weverse and YouTube, was formerly offered weekly for free viewing on V LIVE.",
+    "poster": "https://image.tmdb.org/t/p/w500/xi6fnObkhQI7onZWeSB9rA80Abs.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xi6fnObkhQI7onZWeSB9rA80Abs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c8dm74uPCMA27iKAR1WnHKTsI9h.jpg",
+    "rating": 8.6,
+    "voteCount": 373,
+    "firstAired": "2015-08-01",
+    "year": "2015",
+    "genreIds": [
+      10764
+    ],
+    "popularity": 7.2515,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Reality"
+    ]
+  },
+  {
+    "id": 202783,
+    "title": "A Killer Paradox",
+    "originalTitle": "살인자ㅇ난감",
+    "overview": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
+    "poster": "https://image.tmdb.org/t/p/w500/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
+    "rating": 7.4,
+    "voteCount": 180,
+    "firstAired": "2024-02-09",
+    "year": "2024",
+    "genreIds": [
+      80,
+      35,
+      9648,
+      18
+    ],
+    "popularity": 7.227,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 217088,
+    "title": "The Killing Vote",
+    "originalTitle": "국민사형투표",
+    "overview": "People are busy watching the screen. The person wearing a mysterious mask so called 'Gaetal' appears, and the Killing Vote begins.",
+    "poster": "https://image.tmdb.org/t/p/w500/b31zFi0ZocmaxxuPCAGxEA6uxGn.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/b31zFi0ZocmaxxuPCAGxEA6uxGn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5b7VwobdAhp7NFCxxcEXSQNmaNe.jpg",
+    "rating": 7.7,
+    "voteCount": 57,
+    "firstAired": "2023-08-10",
+    "year": "2023",
+    "genreIds": [
+      18,
+      9648,
+      80
+    ],
+    "popularity": 7.2111,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ]
+  },
+  {
+    "id": 154824,
+    "title": "See You in My 19th Life",
+    "originalTitle": "이번 생도 잘 부탁해",
+    "overview": "Ban Ji-eum can endlessly reincarnate. But when her 18th life gets cut short, she dedicates the next one to finding her now grown-up childhood love.",
+    "poster": "https://image.tmdb.org/t/p/w500/zbP6wPbdFCTFnzuZoVXMw9q5Hno.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/zbP6wPbdFCTFnzuZoVXMw9q5Hno.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jChgOjgYN7Vhkc5OpBbIYG4uSTG.jpg",
+    "rating": 8.1,
+    "voteCount": 208,
+    "firstAired": "2023-06-17",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 7.1988,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 67018,
+    "title": "The Legend of the Blue Sea",
+    "originalTitle": "푸른 바다의 전설",
+    "overview": "A mermaid from the Joseon period ends up in present-day Seoul, where she crosses paths with a swindler who may have ties to someone from her past.",
+    "poster": "https://image.tmdb.org/t/p/w500/cHrhnci45nyoqctI33lgB0iX9Zy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/cHrhnci45nyoqctI33lgB0iX9Zy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AndNIZzaDAcLlk11KjZy2TZS07Y.jpg",
+    "rating": 7.4,
+    "voteCount": 206,
+    "firstAired": "2016-11-16",
+    "year": "2016",
+    "genreIds": [
+      35,
+      18,
+      10765
+    ],
+    "popularity": 7.1973,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 232402,
+    "title": "S Line",
+    "originalTitle": "S라인",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "poster": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/worzO1lyLDDbKniQbFJKqPOEu2n.jpg",
+    "rating": 7.5,
+    "voteCount": 157,
+    "firstAired": "2025-07-11",
+    "year": "2025",
+    "genreIds": [
+      10765,
+      18,
+      9648
+    ],
+    "popularity": 7.194,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 155231,
+    "title": "Link: Eat, Love, Kill",
+    "originalTitle": "링크: 먹고, 사랑하라, 죽이게",
+    "overview": "Eun Gye-hoon, a famous chef, opens a restaurant in a town he lived when he was a little kid. In the past, he had a twin sister. But after a traumatic incident tat the hometown, the family lost her. He used to have a strong emotional link to his sister, able to synchronize with any kinds of feelings she was having. When Noh Da-hyun, a young woman in need of help, visits him one day, Gye-hoon starts to feel that strong link again.",
+    "poster": "https://image.tmdb.org/t/p/w500/lyQQFIbDsdSBYpxG2EcS7gGEZ5j.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/lyQQFIbDsdSBYpxG2EcS7gGEZ5j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nNB8ST1cCslJLPI9Uhn5uVht2Dd.jpg",
+    "rating": 7.7,
+    "voteCount": 127,
+    "firstAired": "2022-06-06",
+    "year": "2022",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 7.1741,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 258025,
+    "title": "Head Over Heels",
+    "originalTitle": "견우와 선녀",
+    "overview": "A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful first love that defies darkness and reclaims hope.",
+    "poster": "https://image.tmdb.org/t/p/w500/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+    "rating": 8.6,
+    "voteCount": 105,
+    "firstAired": "2025-06-23",
+    "year": "2025",
+    "genreIds": [
+      10765,
+      18,
+      35
+    ],
+    "popularity": 7.1655,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 135897,
+    "title": "Our Beloved Summer",
+    "originalTitle": "그 해 우리는",
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "poster": "https://image.tmdb.org/t/p/w500/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "rating": 8.4,
+    "voteCount": 165,
+    "firstAired": "2021-12-06",
+    "year": "2021",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.1156,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 156484,
+    "title": "The 8 Show",
+    "originalTitle": "The 8 Show",
+    "overview": "Eight individuals trapped in a mysterious 8-story building participate in a tempting but dangerous show where they earn money as time passes.",
+    "poster": "https://image.tmdb.org/t/p/w500/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+    "rating": 7.2,
+    "voteCount": 321,
+    "firstAired": "2024-05-17",
+    "year": "2024",
+    "genreIds": [
+      9648,
+      35,
+      18
+    ],
+    "popularity": 7.1095,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 153496,
+    "title": "Reborn Rich",
+    "originalTitle": "재벌집 막내아들",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "poster": "https://image.tmdb.org/t/p/w500/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
+    "rating": 8,
+    "voteCount": 110,
+    "firstAired": "2022-11-18",
+    "year": "2022",
+    "genreIds": [
+      18,
+      10765
+    ],
+    "popularity": 7.0963,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 61611,
+    "title": "Pinocchio",
+    "originalTitle": "피노키오",
+    "overview": "In-ha and Ha-myeong become reporters for different reasons: one aspires to follow in her mother's footsteps and the other seeks to do honest news.",
+    "poster": "https://image.tmdb.org/t/p/w500/i97YOqvylMMkiNzi4l5yyEVbYQi.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/i97YOqvylMMkiNzi4l5yyEVbYQi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pR1Yzsv4zFI5X0OanEpFpMMHxIG.jpg",
+    "rating": 8.2,
+    "voteCount": 643,
+    "firstAired": "2014-11-12",
+    "year": "2014",
+    "genreIds": [
+      18,
+      35,
+      9648
+    ],
+    "popularity": 7.0272,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 62644,
+    "title": "The Producers",
+    "originalTitle": "프로듀사",
+    "overview": "A rookie producer joins the Korean Broadcasting System to be near his secret crush and enters the madcap world of network TV, where ratings rule.",
+    "poster": "https://image.tmdb.org/t/p/w500/wtOMeQS4Yoeu1LdGf89XEk5XJ6l.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wtOMeQS4Yoeu1LdGf89XEk5XJ6l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mmAaQ3xSfUaZZ0Lt074YuCmGA90.jpg",
+    "rating": 7.4,
+    "voteCount": 94,
+    "firstAired": "2015-05-15",
+    "year": "2015",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 7.0052,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 66272,
+    "title": "Uncontrollably Fond",
+    "originalTitle": "함부로 애틋하게",
+    "overview": "The memory of their painful breakup still fresh in their minds, two former lovers reunite years later as a top actor and a documentary producer.",
+    "poster": "https://image.tmdb.org/t/p/w500/oFi7YZuLWRE2K5ggkfBjVb60jrb.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/oFi7YZuLWRE2K5ggkfBjVb60jrb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xeDuEXvNRkcyB4ANTpLObPOa8g3.jpg",
+    "rating": 7.4,
+    "voteCount": 92,
+    "firstAired": "2016-07-06",
+    "year": "2016",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.9851,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 196474,
+    "title": "A Time Called You",
+    "originalTitle": "너의 시간 속으로",
+    "overview": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love.",
+    "poster": "https://image.tmdb.org/t/p/w500/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
+    "rating": 8.2,
+    "voteCount": 207,
+    "firstAired": "2023-09-08",
+    "year": "2023",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.9532,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 74074,
+    "title": "Because This Is My First Life",
+    "originalTitle": "이번 생은 처음이라",
+    "overview": "Two housemates get married for financial convenience, but discover nothing is simple when it comes to demanding in-laws — or facing their growing bond.",
+    "poster": "https://image.tmdb.org/t/p/w500/tEGLv0BdgvJN7K4Me4fpuhdPLRg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/tEGLv0BdgvJN7K4Me4fpuhdPLRg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xbWlQDHwFjAo9oRALQBLtPYntPJ.jpg",
+    "rating": 8.2,
+    "voteCount": 180,
+    "firstAired": "2017-10-09",
+    "year": "2017",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.9121,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 78385,
+    "title": "Something in the Rain",
+    "originalTitle": "밥 잘 사주는 예쁜 누나",
+    "overview": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
+    "poster": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1SH20VoDFK28Yg2Zq4WPZqWGiXn.jpg",
+    "rating": 7.8,
+    "voteCount": 127,
+    "firstAired": "2018-03-30",
+    "year": "2018",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.8762,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 243964,
+    "title": "Melo Movie",
+    "originalTitle": "멜로무비",
+    "overview": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
+    "poster": "https://image.tmdb.org/t/p/w500/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "rating": 7.3,
+    "voteCount": 55,
+    "firstAired": "2025-02-14",
+    "year": "2025",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.797,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 131305,
+    "title": "Celebrity",
+    "originalTitle": "셀러브리티",
+    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
+    "poster": "https://image.tmdb.org/t/p/w500/bYhzribGfkw6eeKkicJHx7U3Bwy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bYhzribGfkw6eeKkicJHx7U3Bwy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
+    "rating": 7.8,
+    "voteCount": 148,
+    "firstAired": "2023-06-30",
+    "year": "2023",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 6.7925,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 97219,
+    "title": "Hi Bye, Mama!",
+    "originalTitle": "하이바이, 마마!",
+    "overview": "Cha Yu-ri died in an accident five years ago, leaving her husband Cho Gang-hwa to raise their daughter by himself. She becomes a ghost and watches over them until one fateful day she is brought back to life by the deities and told she can become human again if she returns to her place in 49 days. Though her husband has remarried, so she must decide between her or his happiness as she slowly re-integrates back into her old lifestyle.",
+    "poster": "https://image.tmdb.org/t/p/w500/mc5nLj2EM480d6tlxKsj2GRfsDC.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/mc5nLj2EM480d6tlxKsj2GRfsDC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2TMsmPv6RMR1XvqcZSsdci0QDeh.jpg",
+    "rating": 8.1,
+    "voteCount": 454,
+    "firstAired": "2020-02-22",
+    "year": "2020",
+    "genreIds": [
+      10765,
+      35,
+      18
+    ],
+    "popularity": 6.7914,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 119773,
+    "title": "Law School",
+    "originalTitle": "로스쿨",
+    "overview": "Following the case of the murder of a professor at South Korea's top prestigious law school, professors and students become suspects in the murder.",
+    "poster": "https://image.tmdb.org/t/p/w500/52LCQBgB9Lu0djjIU24p6YI5sQk.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/52LCQBgB9Lu0djjIU24p6YI5sQk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/17yvu1IGd1sTLugw2yXO1i2R3cT.jpg",
+    "rating": 7.8,
+    "voteCount": 63,
+    "firstAired": "2021-04-14",
+    "year": "2021",
+    "genreIds": [
+      18,
+      80,
+      9648
+    ],
+    "popularity": 6.7732,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 75123,
+    "title": "A Korean Odyssey",
+    "originalTitle": "화유기",
+    "overview": "A self-serving mythical creature's bid for invincibility backfires when he finds himself at the mercy of a woman who can see otherworldly beings.",
+    "poster": "https://image.tmdb.org/t/p/w500/uJfF9m2bDXZf6Lng8kkyd0o0Qjz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/uJfF9m2bDXZf6Lng8kkyd0o0Qjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6oxQe4fyYJQT77NBNLQzbW7pf4Z.jpg",
+    "rating": 8,
+    "voteCount": 306,
+    "firstAired": "2017-12-23",
+    "year": "2017",
+    "genreIds": [
+      35,
+      9648,
+      10765,
+      18
+    ],
+    "popularity": 6.7693,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 108284,
+    "title": "Tale of the Nine Tailed",
+    "originalTitle": "구미호뎐",
+    "overview": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
+    "poster": "https://image.tmdb.org/t/p/w500/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg",
+    "rating": 8.4,
+    "voteCount": 486,
+    "firstAired": "2020-10-07",
+    "year": "2020",
+    "genreIds": [
+      10765,
+      18,
+      35,
+      9648
+    ],
+    "popularity": 6.7598,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 68349,
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "originalTitle": "역도요정 김복주",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "poster": "https://image.tmdb.org/t/p/w500/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "rating": 8.5,
+    "voteCount": 947,
+    "firstAired": "2016-11-16",
+    "year": "2016",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.7534,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 70813,
+    "title": "Fight for My Way",
+    "originalTitle": "쌈 마이웨이",
+    "overview": "A former taekwondo champion and an information desk worker aspire to chase their dreams in a world that isn't kind to those with mediocre credentials.",
+    "poster": "https://image.tmdb.org/t/p/w500/55w33JzFKBkz1evjBjqeF0enDd1.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/55w33JzFKBkz1evjBjqeF0enDd1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AvphOpbh7yoBfIROpNjlu2plIEn.jpg",
+    "rating": 8,
+    "voteCount": 149,
+    "firstAired": "2017-05-22",
+    "year": "2017",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.6805,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 99494,
+    "title": "Flower of Evil",
+    "originalTitle": "악의 꽃",
+    "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
+    "poster": "https://image.tmdb.org/t/p/w500/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
+    "rating": 8.2,
+    "voteCount": 582,
+    "firstAired": "2020-07-29",
+    "year": "2020",
+    "genreIds": [
+      18,
+      80,
+      9648
+    ],
+    "popularity": 6.6652,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 99491,
+    "title": "Mystic Pop-up Bar",
+    "originalTitle": "쌍갑포차",
+    "overview": "At this mysterious late-night food cart run by an equally mysterious woman and her part-timer, customers are provided a space for respite and counseling through their dreams. But most importantly, everyone here is treated equally—living or dead.",
+    "poster": "https://image.tmdb.org/t/p/w500/ol3UYd3EfHmz5jz777jpAPwGxwp.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ol3UYd3EfHmz5jz777jpAPwGxwp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6MBRKVIEvtWMSf7iwt0oivylzPD.jpg",
+    "rating": 8,
+    "voteCount": 76,
+    "firstAired": "2020-05-20",
+    "year": "2020",
+    "genreIds": [
+      18,
+      10765,
+      35
+    ],
+    "popularity": 6.6583,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 132979,
+    "title": "Bad and Crazy",
+    "originalTitle": "배드 앤 크레이지",
+    "overview": "A superhero drama about Soo-yeol who has lived his whole life as a materialistic police detective, but changes into a champion for justice and fights against police corruption when a hidden persona called \"K\" awakens inside him.",
+    "poster": "https://image.tmdb.org/t/p/w500/t9CRsIT1sGZY3bEpkWPZjMb4EWy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/t9CRsIT1sGZY3bEpkWPZjMb4EWy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6MQaS4mMnM2WPvsAdQvZDOTxRK9.jpg",
+    "rating": 7.9,
+    "voteCount": 105,
+    "firstAired": "2021-12-17",
+    "year": "2021",
+    "genreIds": [
+      10759,
+      80,
+      18,
+      10765
+    ],
+    "popularity": 6.6545,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 99048,
+    "title": "Start-Up",
+    "originalTitle": "스타트업",
+    "overview": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
+    "poster": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
+    "rating": 8.2,
+    "voteCount": 366,
+    "firstAired": "2020-10-17",
+    "year": "2020",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 6.6517,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 88328,
+    "title": "Abyss",
+    "originalTitle": "어비스",
+    "overview": "After meeting an untimely demise in separate incidents, Cha Min and Go Se-yeon discover they’ve come back to life in new bodies they don’t recognize.",
+    "poster": "https://image.tmdb.org/t/p/w500/ttcqbLutnHABQwDiW1k7dxnsJLV.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ttcqbLutnHABQwDiW1k7dxnsJLV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6W1dWcoqpl2NrgqkAXWa0aTTBBK.jpg",
+    "rating": 8.1,
+    "voteCount": 200,
+    "firstAired": "2019-05-06",
+    "year": "2019",
+    "genreIds": [
+      35,
+      10765,
+      9648,
+      18
+    ],
+    "popularity": 6.6501,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 77284,
+    "title": "Tempted",
+    "originalTitle": "위대한 유혹자",
+    "overview": "Love is just a game for a chaebol heir who agrees to a petty bet with his friends to seduce a college student — until he starts to fall for her.",
+    "poster": "https://image.tmdb.org/t/p/w500/asRKD4SlynwMgvl9XXasNoktZoP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/asRKD4SlynwMgvl9XXasNoktZoP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uiVNZz9qSpNf6iGCznIPpAefijV.jpg",
+    "rating": 7.1,
+    "voteCount": 62,
+    "firstAired": "2018-03-12",
+    "year": "2018",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.6478,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 231749,
+    "title": "Miss Night and Day",
+    "originalTitle": "낮과 밤이 다른 그녀",
+    "overview": "A bittersweet romantic comedy about a job seeker who suddenly gets stuck in time as an old-ager one day, and an extraordinary internship with a prosecutor who is caught up in her all day and night.",
+    "poster": "https://image.tmdb.org/t/p/w500/yfE5kgRsgZD9lXtCS0dnfOz7Kk5.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/yfE5kgRsgZD9lXtCS0dnfOz7Kk5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r2yUQj5vGHLyo7KCjCJLG78CExc.jpg",
+    "rating": 8.5,
+    "voteCount": 148,
+    "firstAired": "2024-06-15",
+    "year": "2024",
+    "genreIds": [
+      10765,
+      35,
+      9648
+    ],
+    "popularity": 6.6292,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 96571,
+    "title": "Move to Heaven",
+    "originalTitle": "무브 투 헤븐: 나는 유품정리사입니다",
+    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
+    "poster": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "rating": 8,
+    "voteCount": 372,
+    "firstAired": "2021-05-14",
+    "year": "2021",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.6086,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 66256,
+    "title": "Love in the Moonlight",
+    "originalTitle": "구르미 그린 달빛",
+    "overview": "A young Joseon woman who's lived her whole life as a man ends up as a eunuch in the royal palace, where she begins to bond with the crown prince.",
+    "poster": "https://image.tmdb.org/t/p/w500/qKir5S1ka8UkWVo8aGW9T19IIHC.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/qKir5S1ka8UkWVo8aGW9T19IIHC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5IvFyqglPR501Bvk4NX60mzlVKM.jpg",
+    "rating": 7,
+    "voteCount": 102,
+    "firstAired": "2016-08-22",
+    "year": "2016",
+    "genreIds": [
+      35,
+      18,
+      10768
+    ],
+    "popularity": 6.5911,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War & Politics"
+    ]
+  },
+  {
+    "id": 67014,
+    "title": "Hello, My Twenties!",
+    "originalTitle": "청춘시대",
+    "overview": "With different personalities, life goals and taste in men, five female college students become housemates in a shared residence called Belle Epoque.",
+    "poster": "https://image.tmdb.org/t/p/w500/4MdSbKFGAzgFhF407e9fcZreqvm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/4MdSbKFGAzgFhF407e9fcZreqvm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vu5F4wLOBPFWYcBkJ3at2XKJgGa.jpg",
+    "rating": 7.2,
+    "voteCount": 133,
+    "firstAired": "2016-07-22",
+    "year": "2016",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.5841,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 206693,
+    "title": "My Dearest",
+    "originalTitle": "연인",
+    "overview": "A love-story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion.",
+    "poster": "https://image.tmdb.org/t/p/w500/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
+    "rating": 8.2,
+    "voteCount": 50,
+    "firstAired": "2023-08-04",
+    "year": "2023",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 6.5565,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 156406,
+    "title": "Under the Queen's Umbrella",
+    "originalTitle": "슈룹",
+    "overview": "A spirited queen tries to rein in her rowdy sons in order to make one of them the next king of Joseon, while her competitors vie to snatch the throne.",
+    "poster": "https://image.tmdb.org/t/p/w500/9CIjlNBlyHbrzhTa5PoIjCUxwRP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/9CIjlNBlyHbrzhTa5PoIjCUxwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uj8DokshBfXWiM64iEXrEldyr39.jpg",
+    "rating": 8.2,
+    "voteCount": 105,
+    "firstAired": "2022-10-15",
+    "year": "2022",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.5497,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 223326,
+    "title": "Tempest",
+    "originalTitle": "북극성",
+    "overview": "Seo Munju, a highly accomplished diplomat and former ambassador to the United Nations, and Sanho, an international special agent shrouded in a veil of secrets, race to uncover the truth behind an attack that threatens the future stability of the Korean peninsula.",
+    "poster": "https://image.tmdb.org/t/p/w500/cCSOw482P0el3ioDnZEDhggrQoj.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/cCSOw482P0el3ioDnZEDhggrQoj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wyCQovekJ10HnmqCE3lPNaoGDde.jpg",
+    "rating": 7.5,
+    "voteCount": 77,
+    "firstAired": "2025-09-10",
+    "year": "2025",
+    "genreIds": [
+      18,
+      9648
+    ],
+    "popularity": 6.5444,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 89604,
+    "title": "One Spring Night",
+    "originalTitle": "봄밤",
+    "overview": "When Lee Jeong-in and Yu Ji-ho meet, something unexpected happens. Or it just may be that spring is in the air -- and anything is possible.",
+    "poster": "https://image.tmdb.org/t/p/w500/gng7Ah3bYbVctiWuw6zVSKfEfY5.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gng7Ah3bYbVctiWuw6zVSKfEfY5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w5P0EXYWyUZjWVYYgMOkiqvyE3W.jpg",
+    "rating": 8,
+    "voteCount": 77,
+    "firstAired": "2019-05-22",
+    "year": "2019",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.5075,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 83941,
+    "title": "Encounter",
+    "originalTitle": "남자친구",
+    "overview": "Following a chance encounter overseas, a woman with much to lose and a man with little to his name meet again as employer and employee.",
+    "poster": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zumJNuQP60nMgfZyyJbRuGlIFXI.jpg",
+    "rating": 7.9,
+    "voteCount": 70,
+    "firstAired": "2018-11-28",
+    "year": "2018",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.4945,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 232616,
+    "title": "The Atypical Family",
+    "originalTitle": "히어로는 아닙니다만",
+    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
+    "poster": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+    "rating": 8.2,
+    "voteCount": 113,
+    "firstAired": "2024-05-04",
+    "year": "2024",
+    "genreIds": [
+      18,
+      10765
+    ],
+    "popularity": 6.4638,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 61670,
+    "title": "Healer",
+    "originalTitle": "힐러",
+    "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
+    "poster": "https://image.tmdb.org/t/p/w500/4Zc0XtzXasrfgOyCH7wX8stqkEu.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/4Zc0XtzXasrfgOyCH7wX8stqkEu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
+    "rating": 8.3,
+    "voteCount": 309,
+    "firstAired": "2014-12-08",
+    "year": "2014",
+    "genreIds": [
+      35,
+      10759,
+      9648,
+      18
+    ],
+    "popularity": 6.4507,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": 136732,
+    "title": "Shooting Stars",
+    "originalTitle": "별똥별",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "poster": "https://image.tmdb.org/t/p/w500/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "rating": 8.1,
+    "voteCount": 98,
+    "firstAired": "2022-04-22",
+    "year": "2022",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.4406,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 60956,
+    "title": "Doctor Stranger",
+    "originalTitle": "닥터 이방인",
+    "overview": "As a child, Park Hoon and his dad were kidnapped and taken to North Korea. He grew up there, learning to be a doctor just like his father. When Park Hoon escapes back to South Korea and begins work at a prestigious hospital, he makes it his goal to earn enough money to go back to North Korea to rescue his true love. He'll do anything to find her, but then he meets and falls for a mysterious woman who looks exactly like her.",
+    "poster": "https://image.tmdb.org/t/p/w500/odH9cebqUNHKh1p6BKVSs0gsD34.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/odH9cebqUNHKh1p6BKVSs0gsD34.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vvvwefAwrJ9xaVrFOuk8BKQfvIK.jpg",
+    "rating": 8.1,
+    "voteCount": 296,
+    "firstAired": "2014-05-05",
+    "year": "2014",
+    "genreIds": [
+      18,
+      80
+    ],
+    "popularity": 6.4286,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 113710,
+    "title": "Lovestruck in the City",
+    "originalTitle": "도시남녀의 사랑법",
+    "overview": "Heart stolen by a free-spirited woman after a beachside romance, a passionate architect sets out to reunite with her on the streets of Seoul.",
+    "poster": "https://image.tmdb.org/t/p/w500/ylSkgVyStX0DwSF8irjQVAf2P4H.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ylSkgVyStX0DwSF8irjQVAf2P4H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wYO8Shc4w2FXsqGqSl1MSQtQT8U.jpg",
+    "rating": 7.7,
+    "voteCount": 172,
+    "firstAired": "2020-12-22",
+    "year": "2020",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.3802,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 218631,
+    "title": "Gangnam B-Side",
+    "originalTitle": "강남 비-사이드",
+    "overview": "When Jaehee, a top call girl at a club in Gangnam, goes missing, Detective Kang Dongwoo returns to crack the case. Prosecutor Min Seojin aims to rise in rank, while the notorious pimp, Yoon Gilho becomes a prime suspect. They unravel a web of secrets and connections behind the case.",
+    "poster": "https://image.tmdb.org/t/p/w500/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/is55WKSiFpTtGLLqm0hMftiefwW.jpg",
+    "rating": 7.4,
+    "voteCount": 69,
+    "firstAired": "2024-11-05",
+    "year": "2024",
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 6.3793,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 135895,
+    "title": "Kiss Sixth Sense",
+    "originalTitle": "키스 식스 센스",
+    "overview": "Hong Ye-sul, a competent account executive at an advertising company, has one secret— she can see the future when her lips come into contact with another person. When Ye-sul accidentally kisses her stern team chief Cha Min-hu, she sees the impossible: herself in bed with him some time in the future. To add to her confusion and frustration, her ex-boyfriend Lee Pil-yo is attempting to win back her heart, shaking her life up even more.",
+    "poster": "https://image.tmdb.org/t/p/w500/xEb7SmwmEt1LlzeABbHIIYWVxoy.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xEb7SmwmEt1LlzeABbHIIYWVxoy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1CciqQoKW453lO7LQk1HeJDdauD.jpg",
+    "rating": 7.9,
+    "voteCount": 67,
+    "firstAired": "2022-05-25",
+    "year": "2022",
+    "genreIds": [
+      18,
+      10765
+    ],
+    "popularity": 6.3705,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 224030,
+    "title": "High School Return of a Gangster",
+    "originalTitle": "조폭인 내가 고등학생이 되었습니다",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "poster": "https://image.tmdb.org/t/p/w500/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "rating": 8.4,
+    "voteCount": 93,
+    "firstAired": "2024-05-29",
+    "year": "2024",
+    "genreIds": [
+      10765,
+      18
+    ],
+    "popularity": 6.3696,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 211747,
+    "title": "Island",
+    "originalTitle": "아일랜드",
+    "overview": "Jeju Island is taken over by evil spirits. An exorcist, priest, and chaebol heiress are fated to fight against evil spirits attempting to end the world. “They are stirring at last.”",
+    "poster": "https://image.tmdb.org/t/p/w500/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vtdpgm0QR4RDB3tQFIdpYG4QE16.jpg",
+    "rating": 8,
+    "voteCount": 227,
+    "firstAired": "2022-12-30",
+    "year": "2022",
+    "genreIds": [
+      10765,
+      10759,
+      18
+    ],
+    "popularity": 6.3665,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 233100,
+    "title": "Love Scout",
+    "originalTitle": "나의 완벽한 비서",
+    "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
+    "poster": "https://image.tmdb.org/t/p/w500/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lzidnBhiOCJdtKkUBD2TOfYLE8d.jpg",
+    "rating": 8.1,
+    "voteCount": 56,
+    "firstAired": "2025-01-03",
+    "year": "2025",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 6.34,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 66082,
+    "title": "Another Miss Oh",
+    "originalTitle": "또 오해영",
+    "overview": "Two women working in the same industry with the exact same name keep getting their lives entangled both professionally and personally.",
+    "poster": "https://image.tmdb.org/t/p/w500/rvXTuQf2T6dt1C30z4Tuqy5R7d0.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/rvXTuQf2T6dt1C30z4Tuqy5R7d0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wDPdTGrAMvMgYryojcCUzesgUBX.jpg",
+    "rating": 8.2,
+    "voteCount": 250,
+    "firstAired": "2016-05-02",
+    "year": "2016",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.3188,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 5279,
+    "title": "Princess Hours",
+    "originalTitle": "궁",
+    "overview": "Love, tradition, and politics collide when a spirited young art student is betrothed to the crown prince of South Korea.",
+    "poster": "https://image.tmdb.org/t/p/w500/1FFMp7N70soxPIvAyxRpypyUzbM.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/1FFMp7N70soxPIvAyxRpypyUzbM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cqLrc6WXOm57Z18X6etRoRUOi7h.jpg",
+    "rating": 7.6,
+    "voteCount": 148,
+    "firstAired": "2006-01-11",
+    "year": "2006",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.292,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 139547,
+    "title": "Goodbye Earth",
+    "originalTitle": "종말의 바보",
+    "overview": "As an asteroid hurtles towards Earth with nothing to stop it, one determined teacher fights to keep her former students safe — no matter the cost.",
+    "poster": "https://image.tmdb.org/t/p/w500/i1LvLQSKRoGlU5egMHagDtsZ4K1.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/i1LvLQSKRoGlU5egMHagDtsZ4K1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uXlxoe3ef5h2SlDlnLCOkizXq0B.jpg",
+    "rating": 6.1,
+    "voteCount": 60,
+    "firstAired": "2024-04-26",
+    "year": "2024",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.2596,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 156888,
+    "title": "Mask Girl",
+    "originalTitle": "마스크걸",
+    "overview": "An office worker who is insecure about her looks becomes a masked internet personality by night — until a chain of ill-fated events overtakes her life.",
+    "poster": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sfagVOgXVONyDAOI4BjnofLcYpv.jpg",
+    "rating": 7.4,
+    "voteCount": 183,
+    "firstAired": "2023-08-18",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35,
+      9648,
+      80
+    ],
+    "popularity": 6.2389,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Mystery",
+      "Crime"
+    ]
+  },
+  {
+    "id": 61192,
+    "title": "Fated to Love You",
+    "originalTitle": "운명처럼 널 사랑해",
+    "overview": "A wealthy business heir marries an ordinary office worker after they have a one-night stand that leads to her unexpectedly becoming pregnant.",
+    "poster": "https://image.tmdb.org/t/p/w500/5JqmQ3EbQ6B3tQoMx1SFIbbhVuJ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/5JqmQ3EbQ6B3tQoMx1SFIbbhVuJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7VJ5D5pKHfedGirJt7zGNr9o4Gw.jpg",
+    "rating": 8.3,
+    "voteCount": 266,
+    "firstAired": "2014-07-02",
+    "year": "2014",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.2277,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 216310,
+    "title": "Castaway Diva",
+    "originalTitle": "무인도의 디바",
+    "overview": "Fifteen years after being stranded on a remote island, an aspiring singer reenters society — stopping at nothing to pursue her dream of becoming a diva.",
+    "poster": "https://image.tmdb.org/t/p/w500/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6b5AgwBJ9RQKzXh0B7kG0wWq5P9.jpg",
+    "rating": 8,
+    "voteCount": 73,
+    "firstAired": "2023-10-28",
+    "year": "2023",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 6.204,
+    "language": "ko",
+    "country": "KR",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  }
+]
