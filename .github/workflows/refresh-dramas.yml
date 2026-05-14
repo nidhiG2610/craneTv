@@ -1,0 +1,13 @@
+# .github/workflows/refresh-dramas.yml
+# Runs every Sunday at midnight — fetches fresh data, commits JSON
+name: Refresh Drama Data
+on:
+  schedule:
+    - cron: '0 0 * * 0'   # Every Sunday midnight
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: node scripts/fetchDramas.js
+      - run: git add public/data && git commit -m "Weekly drama refresh" && git push
