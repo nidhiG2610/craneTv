@@ -3,12 +3,14 @@ import { SORT_BY } from '../TMDB/types/sortings';
 import { COUNTRIES } from '../TMDB/types/countries';
 import { GENRES } from '../TMDB/types/genres';
 import { useDramaList } from '../TMDB/hooks/useDramaList';
+import { DramaFilters } from '../TMDB/interfaces';
 
 
 export default function DramaList() {
-  const [filters, setFilters] = useState({
-    country: null,
-    genreId: null,
+  const [filters, setFilters] = useState<DramaFilters>({
+    country: 'All',
+    genreId: 'All',
+    mood: 'All',
     sortBy:  SORT_BY.Popular,
     year:    '2026',
     query:   '',
@@ -87,16 +89,16 @@ export default function DramaList() {
       )}
 
       {/* ── Pagination ── */}
-      {!loading && totalPages > 1 && (
+      {!loading && totalPages > 1 && filters.page && (
         <div className="pagination">
           <button
             disabled={filters.page === 1}
-            onClick={() => setFilters(f => ({ ...f, page: f.page - 1 }))}
+            onClick={() => setFilters(f => ({ ...f, page: f.page ? f.page - 1 : 1 }))}
           >← Prev</button>
           <span>Page {filters.page} of {totalPages}</span>
           <button
             disabled={filters.page >= totalPages}
-            onClick={() => setFilters(f => ({ ...f, page: f.page + 1 }))}
+            onClick={() => setFilters(f => ({ ...f, page: f.page ? f.page + 1 : 1 }))}
           >Next →</button>
         </div>
       )}

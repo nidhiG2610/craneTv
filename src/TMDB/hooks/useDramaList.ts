@@ -23,14 +23,15 @@ import type { DramaFilters, DramaResult, TMDBApiResponse } from '../interfaces';
 type FetchDramas = (signal: AbortSignal) => Promise<void>;
 
 export function useDramaList({
-    country = null,
-    genreId = null,
+    country = 'All',
+    genreId = 'All',
     sortBy = SORT_BY.Popular,
     year = null,
     query = '',
     page = 1,
     minVotes = 50,
-}: DramaFilters = {}) {
+    mood = 'All',
+}: DramaFilters) {
     const [dramas, setDramas] = useState<DramaResult[]>([]);
     const [loading, setLoading] = useState<boolean>(true);
     const [error, setError] = useState<Error | null>(null);
@@ -40,7 +41,7 @@ export function useDramaList({
     const fetchDramas: FetchDramas = useCallback(async (signal: AbortSignal): Promise<void> => {
         setLoading(true);
         setError(null);
-
+        console.log(mood)
         try {
             // If user typed a search query, use Search API instead of Discover
             const isSearch: boolean = query.trim().length > 0;
