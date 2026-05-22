@@ -3,6 +3,7 @@ import General from './pages/General';
 import VibeMatchingWheel from './pages/VibeMatchingWheel';
 import Recommendations from './pages/Recommendations';
 import About from './pages/About';
+import { Analytics } from "@vercel/analytics/react"
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
         <Route path="/recommendations" element={<Recommendations onSave={() => { }} onMoreLikeThis={() => { }} />} />
         <Route path="/about" element={<About />} />
       </Routes>
+      {<Analytics />}
     </>
   );
 }

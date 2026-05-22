@@ -10,6 +10,7 @@
     "fetch-dramas": "node drama-syc/fetchDramas.js"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "^9.3.0",
