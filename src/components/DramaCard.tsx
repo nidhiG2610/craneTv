@@ -25,14 +25,17 @@ export function DramaCard({ drama, onSave, onMoreLikeThis }: DramaCardProps) {
             {countryLabel(drama.country)} · {drama.watch}
           </div>
         </div>
-        <div className="rating">★ {drama.rating}</div>
+        <div className='flex flex-end gap-2'>
+          <div>{drama.year}</div>
+          <div className="rating">★ {drama.rating}</div>
+        </div>
       </div>
       <div className="tags">
         <span className="tag">{drama.mood}</span>
         <span className="tag">{drama.genre}</span>
         <span className="tag">Fan pick</span>
       </div>
-      <div className="desc">{drama.desc} - {drama.year}</div>
+      <div className="desc">{drama.desc}</div>
       <div className="actions">
         <button className="primary" onClick={() => onSave(drama.title)}>
           Save to watchlist

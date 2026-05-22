@@ -15,6 +15,7 @@ export const normalizeDrama = (item: any, country: string | null) => {
         firstAired: item.first_air_date,
         year: item.first_air_date?.split('-')[0] ?? null,
         genreIds: item.genre_ids ?? [],
+        moods: item.moods ?? (item.mood ? [item.mood] : []),
         popularity: item.popularity,
         language: item.original_language,
         country: country ?? (item.origin_country?.[0] ?? null),

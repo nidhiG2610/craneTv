@@ -5,6 +5,7 @@ export function useDramas() {
   const [dramas, setDramas] = useState<Drama[]>([]);
   const [loadError, setLoadError] = useState(false);
 
+
   const loadDramas = async () => {
     try {
       const response1 = await fetch('/data/cdramas.json');

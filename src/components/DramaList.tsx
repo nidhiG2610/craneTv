@@ -11,15 +11,15 @@ export default function DramaList() {
     country: 'All',
     genreId: 'All',
     mood: 'All',
-    sortBy:  SORT_BY.Popular,
-    year:    '2026',
-    query:   '',
-    page:    1,
+    sortBy: SORT_BY.Popular,
+    year: '2026',
+    query: '',
+    page: 1,
   });
 
   const { dramas, loading, error, totalPages, totalItems } = useDramaList(filters);
 
-  const set = (key:any, val:any) => setFilters(f => ({ ...f, [key]: val, page: 1 }));
+  const set = (key: any, val: any) => setFilters(f => ({ ...f, [key]: val, page: 1 }));
 
   return (
     <div className="drama-list-page">
@@ -66,7 +66,7 @@ export default function DramaList() {
 
       {/* ── States ── */}
       {loading && <div className="loading">Loading picks...</div>}
-      {error   && <div className="error">⚠️ {error.message}</div>}
+      {error && <div className="error">⚠️ {error.message}</div>}
 
       {/* ── Drama Grid ── */}
       {!loading && !error && (

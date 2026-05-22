@@ -1,6 +1,8 @@
+import Navbar from "./Navbar";
+
 export function AppHeader() {
   return (
-    <header className="topbar">
+    <header className="flex flex-col gap-3">
       <div className="brand">
         <div className="logo" aria-label="CraneTV logo">
           <svg
@@ -22,7 +24,8 @@ export function AppHeader() {
           <p>Real picks from real fans.</p>
         </div>
       </div>
-      <div className="pill">Brand color: Deep Teal · Genre color shifts remembered</div>
+      <Navbar />
+      {/* <div className="pill">Brand color: Deep Teal · Genre color shifts remembered</div> */}
     </header>
   );
 }

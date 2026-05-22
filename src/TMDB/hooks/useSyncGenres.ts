@@ -1,16 +1,24 @@
 import { useEffect, useState } from 'react';
-const localGenres = [
-  { id: 10759, name: 'Action & Adventure' },
-  { id: 16, name: 'Animation' },
-  { id: 35, name: 'Comedy' },
-  { id: 80, name: 'Crime' },
-  { id: 99, name: 'Documentary' },
-  { id: 18, name: 'Drama' },
-  { id: 10751, name: 'Family' },
-  { id: 10762, name: 'Kids' },]
+
+export type GenreLookup = Record<string, string>;
+
+export const localGenres: GenreLookup = {
+  '10759': 'Action & Adventure',
+  '16': 'Animation',
+  '35': 'Comedy',
+  '80': 'Crime',
+  '99': 'Documentary',
+  '18': 'Drama',
+  '10749': 'Romance',
+  '10751': 'Family',
+  '10762': 'Kids',
+  '9648': 'Mystery',
+  '01': 'Youth',
+  '02': 'Slice of Life'
+};
 
 export function useSyncGenres() {
-  const [genres, setGenres] = useState<any[]>([]);
+  const [genres, setGenres] = useState<GenreLookup>({});
 
   const loadData = async () => {
     try {
@@ -18,7 +26,7 @@ export function useSyncGenres() {
       if (!response.ok) {
         console.log(`Failed with status ${response.status}`);
       }
-      const data= await response.json();
+      const data = await response.json();
       setGenres(data);
     } catch (error) {
       console.error('Failed to load genre.json:', error);

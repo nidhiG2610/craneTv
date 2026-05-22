@@ -1,38 +1,33 @@
-import { ChipGroup } from './ChipGroup';
 import { Watchlist } from './Watchlist';
-import type { Country, CountryFilter } from '../types';
+import type { Country, CountryFilter, Mood } from '../types';
 import { GenreChipGroup } from './GenreChipGroup';
-import { countryLabel, uniqueValues } from '../utils/dramas';
+import { countryLabel } from '../utils/dramas';
+import { MoodChipGroup } from './MoodChipGroup';
+import type { GenreLookup } from '../TMDB/hooks/useSyncGenres';
+import { FilterStoreState, updateFilter } from '../store/filterStore';
+import { useDispatch, useSelector } from 'react-redux';
+import { DramaFilters } from '../TMDB/interfaces';
 
 type FiltersPanelProps = {
-  search: string;
   countries: CountryFilter;
-  moods: string[];
-  genres: string[];
-  activeMood: string;
-  activeGenre: number | 'All';
+  moods: Mood[];
+  genres: GenreLookup;
   watchlist: string[];
-  country: string | null;
-  onSearchChange: (key: any, val: any) => void;
-  onCountryChange: (key: any, val: any) => void;
-  onMoodChange: (key: any, val: any) => void;
-  onGenreChange: (key: any, val: any) => void;
 };
 
 export function FiltersPanel({
-  search,
   countries,
   moods,
   genres,
-  activeMood,
-  activeGenre,
   watchlist,
-  country,
-  onSearchChange,
-  onCountryChange,
-  onMoodChange,
-  onGenreChange
 }: FiltersPanelProps) {
+
+  const filters = useSelector((state: FilterStoreState) => state.filters);
+  const dispatch = useDispatch();
+
+  const set = (key: keyof DramaFilters, val: DramaFilters[keyof DramaFilters]) => {
+    dispatch(updateFilter(key, val));
+  };
 
   return (
     <aside className="panel">
@@ -43,8 +38,8 @@ export function FiltersPanel({
           id="search"
           type="text"
           placeholder="Search title or keyword"
-          value={search }
-          onChange={(event) => onSearchChange('query', event.target.value)}
+          value={filters.query ?? ''}
+          onChange={(event) => set('query', event.target.value)}
         />
       </div>
       <div className="group">
@@ -52,7 +47,8 @@ export function FiltersPanel({
         <select
           id="country"
           name="country"
-          onChange={(event) => onCountryChange('country', event.target.value as CountryFilter)}
+          onChange={(event) => set('country', event.target.value as CountryFilter)}
+          value={filters.country ?? 'All'}
         >
           <option value="All">All</option>
           {
@@ -62,8 +58,8 @@ export function FiltersPanel({
           }
         </select>
       </div>
-      <ChipGroup label="Mood" items={moods} activeItem={activeMood} onSelect={(item) => onMoodChange('mood', item)} />
-      <GenreChipGroup label="Genre" items={genres} activeItem={activeGenre} onSelect={(item) => onGenreChange('genreId', item)} />
+      <MoodChipGroup label="Mood" items={moods} activeItem={filters.mood} onSelect={(item) => set('mood', item)} />
+      <GenreChipGroup label="Genre" items={genres} activeItem={filters.genreId} onSelect={(item) => set('genreId', item)} />
       <Watchlist items={watchlist} />
       {/* <DramaList /> */}
     </aside>
