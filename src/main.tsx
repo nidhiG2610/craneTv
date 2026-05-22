@@ -16,10 +16,31 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   </React.StrictMode>
 );
 
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').catch((error) => {
+window.addEventListener('load', async () => {
+  if ('serviceWorker' in navigator) {
+    try {
+      const registration = await navigator.serviceWorker.register('/sw.js');
+
+      // Force update check
+      registration.update();
+
+      // Reload page when new SW activates
+      registration.addEventListener('updatefound', () => {
+        const newWorker = registration.installing;
+
+        if (!newWorker) return;
+
+        newWorker.addEventListener('statechange', () => {
+          if (
+            newWorker.state === 'activated' &&
+            navigator.serviceWorker.controller
+          ) {
+            window.location.reload();
+          }
+        });
+      });
+    } catch (error) {
       console.error('Failed to register service worker:', error);
-    });
-  });
-}
+    }
+  }
+});
