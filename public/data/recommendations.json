@@ -4,7 +4,10 @@
     "title": "Our Secret",
     "originalTitle": "暗格里的秘密",
     "country": "CN",
-    "moods": ["M001", "M007"],
+    "moods": [
+      "M001",
+      "M007"
+    ],
     "genre": "Romance, Youth, Campus",
     "rating": "8.7",
     "watch": "Viki, iQIYI",
@@ -26,7 +29,11 @@
     "title": "Hidden Love",
     "originalTitle": "偷偷藏不住",
     "country": "CN",
-    "moods": ["M001", "M007", "M008"],
+    "moods": [
+      "M001",
+      "M007",
+      "M008"
+    ],
     "genre": "Romance, Youth",
     "rating": "8.9",
     "watch": "Netflix",
@@ -48,7 +55,10 @@
     "title": "Exclusive Fairytale",
     "originalTitle": "独家童话",
     "country": "CN",
-    "moods": ["M001", "M007"],
+    "moods": [
+      "M001",
+      "M007"
+    ],
     "genre": "Romance, Youth, Slice of Life",
     "rating": "8.6",
     "watch": "iQIYI, Viki",
@@ -70,7 +80,12 @@
     "title": "Always Home",
     "originalTitle": "树下有片红房子",
     "country": "CN",
-    "moods": ["M001", "M002", "M007", "M008"],
+    "moods": [
+      "M001",
+      "M002",
+      "M007",
+      "M008"
+    ],
     "genre": "Romance, Youth, Slice of Life",
     "rating": "8.7",
     "watch": "WeTV, Viki",
@@ -92,7 +107,11 @@
     "title": "10 Years of Loving You",
     "originalTitle": "",
     "country": "",
-    "moods": ["M002", "M006", "M008"],
+    "moods": [
+      "M002",
+      "M006",
+      "M008"
+    ],
     "genre": "Romance, Slice of Life, Drama",
     "rating": "8.5",
     "watch": "",
@@ -114,7 +133,11 @@
     "title": "Time and Him Are Just Right",
     "originalTitle": "",
     "country": "",
-    "moods": ["M001", "M006", "M007"],
+    "moods": [
+      "M001",
+      "M006",
+      "M007"
+    ],
     "genre": "Romance, Slice of Life, Youth",
     "rating": "8.4",
     "watch": "",
@@ -136,7 +159,10 @@
     "title": "The Best Day of My Life",
     "originalTitle": "",
     "country": "",
-    "moods": ["M001", "M007"],
+    "moods": [
+      "M001",
+      "M007"
+    ],
     "genre": "Romance, Youth, Slice of Life",
     "rating": "8.6",
     "watch": "",
@@ -158,7 +184,10 @@
     "title": "Reset",
     "originalTitle": "开端",
     "country": "CN",
-    "moods": ["M003", "M006"],
+    "moods": [
+      "M003",
+      "M006"
+    ],
     "genre": "Thriller, Mystery, Sci-Fi",
     "rating": "9.0",
     "watch": "Viki, WeTV, Tencent Video",
@@ -180,7 +209,10 @@
     "title": "Under the Skin",
     "originalTitle": "猎罪图鉴",
     "country": "CN",
-    "moods": ["M003", "M008"],
+    "moods": [
+      "M003",
+      "M008"
+    ],
     "genre": "Crime, Thriller, Mystery",
     "rating": "8.8",
     "watch": "Viki, iQIYI",
@@ -202,7 +234,10 @@
     "title": "The Bad Kids",
     "originalTitle": "隐秘的角落",
     "country": "CN",
-    "moods": ["M003", "M007"],
+    "moods": [
+      "M003",
+      "M007"
+    ],
     "genre": "Psychological, Thriller, Crime",
     "rating": "9.1",
     "watch": "iQIYI",
@@ -224,7 +259,11 @@
     "title": "The Long Night",
     "originalTitle": "沉默的真相",
     "country": "CN",
-    "moods": ["M003", "M002", "M008"],
+    "moods": [
+      "M003",
+      "M002",
+      "M008"
+    ],
     "genre": "Crime, Thriller, Drama",
     "rating": "9.2",
     "watch": "iQIYI",
@@ -246,7 +285,10 @@
     "title": "Love Me If You Dare",
     "originalTitle": "他来了，请闭眼",
     "country": "CN",
-    "moods": ["M003", "M006"],
+    "moods": [
+      "M003",
+      "M006"
+    ],
     "genre": "Thriller, Crime, Romance",
     "rating": "8.4",
     "watch": "Viki",
@@ -268,7 +310,10 @@
     "title": "A Murderous Affair in Horizon Tower",
     "originalTitle": "摩天大楼",
     "country": "CN",
-    "moods": ["M003", "M002"],
+    "moods": [
+      "M003",
+      "M002"
+    ],
     "genre": "Mystery, Thriller, Crime",
     "rating": "8.5",
     "watch": "WeTV",
@@ -290,7 +335,9 @@
     "title": "Be Reborn",
     "originalTitle": "重生之门",
     "country": "CN",
-    "moods": ["M003"],
+    "moods": [
+      "M003"
+    ],
     "genre": "Thriller, Crime, Mystery",
     "rating": "8.3",
     "watch": "Youku, Viki",
@@ -312,7 +359,9 @@
     "title": "Day and Night",
     "originalTitle": "白夜追凶",
     "country": "CN",
-    "moods": ["M003"],
+    "moods": [
+      "M003"
+    ],
     "genre": "Crime, Thriller, Mystery",
     "rating": "8.9",
     "watch": "Netflix",
@@ -334,7 +383,10 @@
     "title": "The Disappearing Child",
     "originalTitle": "消失的孩子",
     "country": "CN",
-    "moods": ["M003", "M002"],
+    "moods": [
+      "M003",
+      "M002"
+    ],
     "genre": "Mystery, Thriller, Drama",
     "rating": "8.2",
     "watch": "iQIYI",
@@ -356,7 +408,9 @@
     "title": "Burning Ice",
     "originalTitle": "无证之罪",
     "country": "CN",
-    "moods": ["M003"],
+    "moods": [
+      "M003"
+    ],
     "genre": "Crime, Thriller, Mystery",
     "rating": "8.6",
     "watch": "iQIYI",
@@ -378,14 +432,23 @@
     "title": "When We Were Young",
     "originalTitle": "如此可爱的我们",
     "country": "CN",
-    "moods": ["M007", "M001"],
+    "moods": [
+      "M007",
+      "M001"
+    ],
     "genre": "Youth, Comedy, Romance",
     "rating": "8.6",
     "watch": "iQIYI",
     "desc": "A group of high school friends grows up together in the 1990s, sharing laughter, crushes, and the complicated feeling of becoming adults.",
     "year": "2018",
     "episodes": 32,
-    "tags": ["friend-group", "teen-years", "retro", "bittersweet", "memories"],
+    "tags": [
+      "friend-group",
+      "teen-years",
+      "retro",
+      "bittersweet",
+      "memories"
+    ],
     "poster": "when-we-were-young.jpg",
     "fanNote": "Very nostalgic if you love ensemble youth stories with a strong memory-locked vibe."
   },
@@ -394,14 +457,23 @@
     "title": "With You",
     "originalTitle": "最好的我们",
     "country": "CN",
-    "moods": ["M007", "M001"],
+    "moods": [
+      "M007",
+      "M001"
+    ],
     "genre": "Youth, Romance, Drama",
     "rating": "8.7",
     "watch": "iQIYI",
     "desc": "A shy student enters a new chapter of school life, builds lasting friendships, and slowly experiences the ache of first love and growing up.",
     "year": "2016",
     "episodes": 24,
-    "tags": ["high-school", "first-love", "friendship", "nostalgic", "coming-of-age"],
+    "tags": [
+      "high-school",
+      "first-love",
+      "friendship",
+      "nostalgic",
+      "coming-of-age"
+    ],
     "poster": "with-you.jpg",
     "fanNote": "A very classic youth drama that captures the feeling of being young and unsure."
   },
@@ -410,14 +482,23 @@
     "title": "My Huckleberry Friends",
     "originalTitle": "你好，旧时光",
     "country": "CN",
-    "moods": ["M007", "M001"],
+    "moods": [
+      "M007",
+      "M001"
+    ],
     "genre": "Youth, Romance, Drama",
     "rating": "8.8",
     "watch": "iQIYI",
     "desc": "A bright girl enters high school, reconnects with old friends, and learns how friendship, ambition, and youth shape who she becomes.",
     "year": "2017",
     "episodes": 30,
-    "tags": ["school-life", "friendship", "nostalgic", "soft", "young-adulthood"],
+    "tags": [
+      "school-life",
+      "friendship",
+      "nostalgic",
+      "soft",
+      "young-adulthood"
+    ],
     "poster": "my-huckleberry-friends.jpg",
     "fanNote": "One of the most heartfelt nostalgic picks if you like soft school memories."
   },
@@ -426,15 +507,181 @@
     "title": "Skate Into Love",
     "originalTitle": "冰糖炖雪梨",
     "country": "CN",
-    "moods": ["M007", "M001"],
+    "moods": [
+      "M007",
+      "M001"
+    ],
     "genre": "Romance, Youth, Sports",
     "rating": "8.2",
     "watch": "Viki, Youku",
     "desc": "Two childhood classmates meet again at university and reconnect through sports, rivalry, and the warmth of growing up together.",
     "year": "2020",
     "episodes": 40,
-    "tags": ["childhood-friends", "sports", "nostalgic", "campus", "sweet"],
+    "tags": [
+      "childhood-friends",
+      "sports",
+      "nostalgic",
+      "campus",
+      "sweet"
+    ],
     "poster": "skate-into-love.jpg",
     "fanNote": "A cheerful nostalgic watch with strong childhood-to-love energy."
-  }
-]
+  },
+  {
+    "id": "R008",
+    "title": "Deep Affection Eyes",
+    "originalTitle": "",
+    "country": "",
+    "moods": [
+      "M001",
+      "M006",
+      "M008"
+    ],
+    "genre": "Romance, Slice of Life, Drama",
+    "rating": "8.4",
+    "watch": "",
+    "desc": "A tender romance built on quiet longing, gentle misunderstandings, and the kind of affection that grows through small daily moments.",
+    "year": "",
+    "episodes": "",
+    "tags": [
+      "slow-burn",
+      "soft-romance",
+      "emotional",
+      "heartwarming",
+      "longing"
+    ],
+    "poster": "",
+    "fanNote": "Best for when you want a soft love story with a lot of feeling in the eyes."
+  },
+  {
+    "id": "R009",
+    "title": "Shine On Me",
+    "originalTitle": "",
+    "country": "",
+    "moods": [
+      "M001",
+      "M007",
+      "M008"
+    ],
+    "genre": "Romance, Youth, Healing",
+    "rating": "8.5",
+    "watch": "",
+    "desc": "A warm and uplifting story about healing, self-discovery, and meeting someone who slowly brightens your world.",
+    "year": "",
+    "episodes": "",
+    "tags": [
+      "healing",
+      "uplifting",
+      "soft-romance",
+      "coming-of-age",
+      "comfort"
+    ],
+    "poster": "",
+    "fanNote": "A gentle pick if you want something sweet, hopeful, and easy to love."
+  },
+  {
+      "id": "R010",
+      "title": "Rising with the Wind",
+      "originalTitle": "",
+      "country": "CN",
+      "moods": [
+        "M009",
+        "M006"
+      ],
+      "genre": "Romance, Drama, Business",
+      "rating": "8.3",
+      "watch": "",
+      "desc": "A stylish business romance about ambition, career struggles, and a relationship that grows through pressure, trust, and second chances.",
+      "year": "",
+      "episodes": "",
+      "tags": [
+        "business-romance",
+        "second-chance",
+        "grown-up",
+        "stylish",
+        "emotional"
+      ],
+      "poster": "",
+      "fanNote": "Good if you like mature romance with career tension."
+    },
+    {
+      "id": "J002",
+      "title": "Find Yourself",
+      "originalTitle": "下一站是幸福",
+      "country": "CN",
+      "moods": ["M001", "M006", "M009"],
+      "genre": "Romance, Comedy, Drama",
+      "rating": "8.1",
+      "watch": "Viki",
+      "desc": "A successful career woman unexpectedly falls for a younger man, and their relationship grows through awkward, sweet, and emotionally honest moments.",
+      "year": "2020",
+      "episodes": 41,
+      "tags": ["noona-romance", "age-gap", "office-romance", "mature", "sweet"],
+      "poster": "find-yourself.jpg",
+      "fanNote": "A classic jiejie romance with big chemistry and lots of heart."
+    },
+    {
+      "id": "J003",
+      "title": "Why Women Love",
+      "originalTitle": "才不要和老板谈恋爱",
+      "country": "CN",
+      "moods": ["M001", "M009"],
+      "genre": "Romance, Comedy, Youth",
+      "rating": "8.0",
+      "watch": "Viki, iQIYI",
+      "desc": "A capable woman starts over after a breakup and finds herself in a workplace romance with a younger boss who slowly wins her over.",
+      "year": "2022",
+      "episodes": 24,
+      "tags": ["jiejie-romance", "workplace", "office-love", "funny", "light"],
+      "poster": "why-women-love.jpg",
+      "fanNote": "Light, flirty, and easy to binge if you want jiejie energy without too much angst."
+    },
+    {
+      "id": "J004",
+      "title": "The Rational Life",
+      "originalTitle": "理智派生活",
+      "country": "CN",
+      "moods": ["M006", "M009"],
+      "genre": "Romance, Drama, Workplace",
+      "rating": "8.5",
+      "watch": "Netflix, Viki",
+      "desc": "A mature woman navigating career pressure and family expectations meets a younger assistant whose steady presence slowly shifts her world.",
+      "year": "2021",
+      "episodes": 35,
+      "tags": ["mature-romance", "workplace", "slow-burn", "strong-female-lead", "grown-up"],
+      "poster": "the-rational-life.jpg",
+      "fanNote": "Very good if you want a polished adult romance with calm, steady chemistry."
+    },
+    {
+      "id": "J005",
+      "title": "Nothing But You",
+      "originalTitle": "爱情而已",
+      "country": "CN",
+      "moods": ["M006", "M009"],
+      "genre": "Romance, Sports, Drama",
+      "rating": "8.7",
+      "watch": "Viki, iQIYI",
+      "desc": "A career-focused woman and a younger athlete meet at a turning point in their lives, building a romance rooted in trust, support, and mutual growth.",
+      "year": "2023",
+      "episodes": 38,
+      "tags": ["jiejie-romance", "sports", "age-gap", "healing", "mature"],
+      "poster": "nothing-but-you.jpg",
+      "fanNote": "A warm, confident romance with strong adult chemistry."
+    },
+    {
+      "id": "J006",
+      "title": "The Love You Give Me",
+      "originalTitle": "你给我的喜欢",
+      "country": "CN",
+      "moods": ["M001", "M009", "M008"],
+      "genre": "Romance, Drama, Family",
+      "rating": "8.2",
+      "watch": "Viki, Tencent Video",
+      "desc": "A single mother reconnects with a man from her past, and their shared history brings second chances, emotional healing, and a surprisingly soft love story.",
+      "year": "2023",
+      "episodes": 28,
+      "tags": ["jiejie-romance", "second-chance", "family", "healing", "soft"],
+      "poster": "the-love-you-give-me.jpg",
+      "fanNote": "Best if you like mature romance with a warm family angle."
+    }
+  ]

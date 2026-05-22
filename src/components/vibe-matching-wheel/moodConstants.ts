@@ -9,6 +9,7 @@ export const MOODS: VibeMood[] = [
   { id: 'M006', emoji: '🌙', label: 'Late Night Feel', color: '#818CF8', desc: 'Deep, romantic, can\'t sleep' },
   { id: 'M007', emoji: '🍂', label: 'Nostalgic', color: '#FCA552', desc: 'Bittersweet, memories, healing' },
   { id: 'M008', emoji: '💔', label: 'Heal My Heart', color: '#F87171', desc: 'After a breakup, comfort dramas' },
+  {id: 'M009', emoji: '💋', label: 'Jiejie Romance', color: '#E85D8E', desc: 'Older woman, soft tension' },
 ];
 
 export const SPIN_DURATION = 4000;
