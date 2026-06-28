@@ -4,11 +4,11 @@
     "title": "A Record of a Mortal's Journey to Immortality",
     "originalTitle": "凡人修仙传",
     "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-    "poster": "https://image.tmdb.org/t/p/w500/i6SYuRHPtODpZ8VX9ql21nj0tDq.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/i6SYuRHPtODpZ8VX9ql21nj0tDq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/u1VRjvvCIVwb1MUhoxSAUimhoKZ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/u1VRjvvCIVwb1MUhoxSAUimhoKZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
     "rating": 8.4,
-    "voteCount": 76,
+    "voteCount": 79,
     "firstAired": "2020-07-25",
     "year": "2020",
     "genreIds": [
@@ -16,7 +16,7 @@
       10759,
       10765
     ],
-    "popularity": 116.006,
+    "popularity": 62.4883,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -30,9 +30,9 @@
     "title": "Fights Break Sphere",
     "originalTitle": "斗破苍穹",
     "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-    "poster": "https://image.tmdb.org/t/p/w500/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9y6yZz4fTBvQLYEBeDP8O9e6VBe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iHMKgjHAtf77ORPvvJ8kpEQ286s.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/iHMKgjHAtf77ORPvvJ8kpEQ286s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
     "rating": 8.1,
     "voteCount": 58,
     "firstAired": "2017-01-07",
@@ -42,13 +42,41 @@
       10759,
       10765
     ],
-    "popularity": 75.6548,
+    "popularity": 53.1976,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Animation",
       "Action & Adventure",
       "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 232230,
+    "title": "Lord of Mysteries",
+    "originalTitle": "诡秘之主",
+    "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+    "poster": "https://image.tmdb.org/t/p/w500/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+    "rating": 8.7,
+    "voteCount": 138,
+    "firstAired": "2025-06-28",
+    "year": "2025",
+    "genreIds": [
+      16,
+      9648,
+      10765,
+      10759
+    ],
+    "popularity": 48.3087,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
     ]
   },
   {
@@ -69,7 +97,7 @@
       10765,
       10759
     ],
-    "popularity": 75.8717,
+    "popularity": 42.6954,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -77,30 +105,6 @@
       "Drama",
       "Sci-Fi & Fantasy",
       "Action & Adventure"
-    ]
-  },
-  {
-    "id": 68809,
-    "title": "iPartment",
-    "originalTitle": "爱情公寓",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w500/jLMUydug1jJxAZdAuT5Y2JnjvQI.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/jLMUydug1jJxAZdAuT5Y2JnjvQI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/s0IbaQ6Ielysg7gsizR5amtOEmr.jpg",
-    "rating": 6.9,
-    "voteCount": 50,
-    "firstAired": "2009-08-05",
-    "year": "2009",
-    "genreIds": [
-      18,
-      35
-    ],
-    "popularity": 38.9411,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy"
     ]
   },
   {
@@ -112,99 +116,17 @@
     "posterSmall": "https://image.tmdb.org/t/p/w185/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
     "rating": 8,
-    "voteCount": 68,
+    "voteCount": 69,
     "firstAired": "2026-03-06",
     "year": "2026",
     "genreIds": [
       18
     ],
-    "popularity": 42.7018,
+    "popularity": 43.4299,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama"
-    ]
-  },
-  {
-    "id": 79141,
-    "title": "Scissor Seven",
-    "originalTitle": "刺客伍六七",
-    "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
-    "poster": "https://image.tmdb.org/t/p/w500/mSLSrOndwNoompAARPHBaxF2E6E.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/mSLSrOndwNoompAARPHBaxF2E6E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
-    "rating": 8.6,
-    "voteCount": 774,
-    "firstAired": "2018-04-25",
-    "year": "2018",
-    "genreIds": [
-      16,
-      35,
-      10759,
-      10765
-    ],
-    "popularity": 35.5084,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id": 91097,
-    "title": "Ling Cage",
-    "originalTitle": "灵笼",
-    "overview": "In the near future, human inhabitants would have been crowded and congested. It was an urgency to stride out to the universe and find a new home. When everything was under progress in an orderly way, dramatic geological transformations erupted over the courses of decades. Humanity was demolished by this disaster and hardly left anything. Until the nature gradually restored calm, people struggled to their feet from ruins and abysses, stepping again onto this familiar but strange earth. But for us people, dominating everything has been rooted into our blood. Are we still masters of this new world?",
-    "poster": "https://image.tmdb.org/t/p/w500/p65f4XPIneEjFhASI9HuJId3D3d.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/p65f4XPIneEjFhASI9HuJId3D3d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/k6Yg53yBdsfZeRLJh0WgrG2P11f.jpg",
-    "rating": 8.4,
-    "voteCount": 103,
-    "firstAired": "2019-07-13",
-    "year": "2019",
-    "genreIds": [
-      16,
-      10765,
-      10759,
-      18,
-      9648
-    ],
-    "popularity": 28.6371,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  {
-    "id": 95842,
-    "title": "Joy of Life",
-    "originalTitle": "庆余年",
-    "overview": "Zhang Qing, a present-day college student in culture and history major wants to study in professor Ye's postgraduate class, so he decides to write a historical fiction to elaborate his perspective of analyzing ancient literature history with modern concept. In the fiction, Zhang himself acts as a young man Fan Xian with mysterious life who lives in a remote seaside town of Kingdom Qing in his childhood, under the help of a mysterious mentor and a blindfolded watchman. Fan goes to the capital when he grows up, where he experiences plenty of ordeal and temper. Fan persists in adhering the rule of justice and goodness and lives his own glorious life.",
-    "poster": "https://image.tmdb.org/t/p/w500/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4eNmWhBfDfAj8qbKHPgW394rAK8.jpg",
-    "rating": 8,
-    "voteCount": 116,
-    "firstAired": "2019-11-26",
-    "year": "2019",
-    "genreIds": [
-      18,
-      35
-    ],
-    "popularity": 32.0921,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy"
     ]
   },
   {
@@ -225,7 +147,7 @@
       18,
       10759
     ],
-    "popularity": 32.1908,
+    "popularity": 32.7362,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -233,6 +155,34 @@
       "Crime",
       "Drama",
       "Action & Adventure"
+    ]
+  },
+  {
+    "id": 79141,
+    "title": "Scissor Seven",
+    "originalTitle": "刺客伍六七",
+    "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
+    "poster": "https://image.tmdb.org/t/p/w500/mSLSrOndwNoompAARPHBaxF2E6E.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/mSLSrOndwNoompAARPHBaxF2E6E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
+    "rating": 8.6,
+    "voteCount": 774,
+    "firstAired": "2018-04-25",
+    "year": "2018",
+    "genreIds": [
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "popularity": 40.1224,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
     ]
   },
   {
@@ -244,7 +194,7 @@
     "posterSmall": "https://image.tmdb.org/t/p/w185/7By0jV3kf9MVvv3X3K8u4mhRUwp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/Q7AZOhmO9NGO6WRzu0uKh2dbWO.jpg",
     "rating": 8.3,
-    "voteCount": 702,
+    "voteCount": 704,
     "firstAired": "2020-01-18",
     "year": "2020",
     "genreIds": [
@@ -253,7 +203,7 @@
       10759,
       10765
     ],
-    "popularity": 26.0346,
+    "popularity": 28.5126,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -279,12 +229,60 @@
       10759,
       18
     ],
-    "popularity": 23.3231,
+    "popularity": 27.5435,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Action & Adventure",
       "Drama"
+    ]
+  },
+  {
+    "id": 68809,
+    "title": "iPartment",
+    "originalTitle": "爱情公寓",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w500/jLMUydug1jJxAZdAuT5Y2JnjvQI.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/jLMUydug1jJxAZdAuT5Y2JnjvQI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s0IbaQ6Ielysg7gsizR5amtOEmr.jpg",
+    "rating": 6.9,
+    "voteCount": 50,
+    "firstAired": "2009-08-05",
+    "year": "2009",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 25.6847,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 95842,
+    "title": "Joy of Life",
+    "originalTitle": "庆余年",
+    "overview": "Zhang Qing, a present-day college student in culture and history major wants to study in professor Ye's postgraduate class, so he decides to write a historical fiction to elaborate his perspective of analyzing ancient literature history with modern concept. In the fiction, Zhang himself acts as a young man Fan Xian with mysterious life who lives in a remote seaside town of Kingdom Qing in his childhood, under the help of a mysterious mentor and a blindfolded watchman. Fan goes to the capital when he grows up, where he experiences plenty of ordeal and temper. Fan persists in adhering the rule of justice and goodness and lives his own glorious life.",
+    "poster": "https://image.tmdb.org/t/p/w500/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4eNmWhBfDfAj8qbKHPgW394rAK8.jpg",
+    "rating": 8,
+    "voteCount": 117,
+    "firstAired": "2019-11-26",
+    "year": "2019",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 25.4665,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy"
     ]
   },
   {
@@ -305,7 +303,7 @@
       10759,
       35
     ],
-    "popularity": 22.1182,
+    "popularity": 24.6049,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -330,7 +328,7 @@
     "genreIds": [
       18
     ],
-    "popularity": 19.7714,
+    "popularity": 21.2024,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -353,64 +351,12 @@
       18,
       35
     ],
-    "popularity": 22.2585,
+    "popularity": 20.9972,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama",
       "Comedy"
-    ]
-  },
-  {
-    "id": 292035,
-    "title": "Revenged Love",
-    "originalTitle": "逆爱",
-    "overview": "After Wu Suo-wei's girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.",
-    "poster": "https://image.tmdb.org/t/p/w500/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
-    "rating": 8.4,
-    "voteCount": 66,
-    "firstAired": "2025-06-16",
-    "year": "2025",
-    "genreIds": [
-      18,
-      10759
-    ],
-    "popularity": 22.2759,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Action & Adventure"
-    ]
-  },
-  {
-    "id": 232230,
-    "title": "Lord of Mysteries",
-    "originalTitle": "诡秘之主",
-    "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
-    "poster": "https://image.tmdb.org/t/p/w500/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
-    "rating": 8.7,
-    "voteCount": 134,
-    "firstAired": "2025-06-28",
-    "year": "2025",
-    "genreIds": [
-      16,
-      9648,
-      10765,
-      10759
-    ],
-    "popularity": 68.2624,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Mystery",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
     ]
   },
   {
@@ -422,7 +368,7 @@
     "posterSmall": "https://image.tmdb.org/t/p/w185/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
     "rating": 8.6,
-    "voteCount": 165,
+    "voteCount": 166,
     "firstAired": "2019-06-27",
     "year": "2019",
     "genreIds": [
@@ -430,13 +376,67 @@
       18,
       9648
     ],
-    "popularity": 16.4329,
+    "popularity": 21.9828,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Action & Adventure",
       "Drama",
       "Mystery"
+    ]
+  },
+  {
+    "id": 91097,
+    "title": "Ling Cage",
+    "originalTitle": "灵笼",
+    "overview": "In the near future, human inhabitants would have been crowded and congested. It was an urgency to stride out to the universe and find a new home. When everything was under progress in an orderly way, dramatic geological transformations erupted over the courses of decades. Humanity was demolished by this disaster and hardly left anything. Until the nature gradually restored calm, people struggled to their feet from ruins and abysses, stepping again onto this familiar but strange earth. But for us people, dominating everything has been rooted into our blood. Are we still masters of this new world?",
+    "poster": "https://image.tmdb.org/t/p/w500/p65f4XPIneEjFhASI9HuJId3D3d.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/p65f4XPIneEjFhASI9HuJId3D3d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k6Yg53yBdsfZeRLJh0WgrG2P11f.jpg",
+    "rating": 8.4,
+    "voteCount": 104,
+    "firstAired": "2019-07-13",
+    "year": "2019",
+    "genreIds": [
+      16,
+      10765,
+      10759,
+      18,
+      9648
+    ],
+    "popularity": 22.4271,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 292035,
+    "title": "Revenged Love",
+    "originalTitle": "逆爱",
+    "overview": "After Wu Suo-wei's girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.",
+    "poster": "https://image.tmdb.org/t/p/w500/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
+    "rating": 8.4,
+    "voteCount": 68,
+    "firstAired": "2025-06-16",
+    "year": "2025",
+    "genreIds": [
+      18,
+      10759
+    ],
+    "popularity": 20.9811,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
     ]
   },
   {
@@ -454,7 +454,149 @@
     "genreIds": [
       18
     ],
-    "popularity": 16.2039,
+    "popularity": 15.5515,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 272059,
+    "title": "TO BE HERO X",
+    "originalTitle": "凸变英雄X",
+    "overview": "In a world full of brilliant heroes, it’s the trust of fans that turns heroes into superheroes. If a hero loses the people’s trust, they lose their special abilities. Trust value is collected, quantified, and used to determine a hero’s ranking, displayed on their wrist. Every two years, the top heroes go to a tournament to fight, determine new trust values, and earn their rankings.",
+    "poster": "https://image.tmdb.org/t/p/w500/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4b0oKiGtlwX19b0y6tQQC1ea0o5.jpg",
+    "rating": 8.7,
+    "voteCount": 118,
+    "firstAired": "2025-04-06",
+    "year": "2025",
+    "genreIds": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 14.7058,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 50878,
+    "title": "Empresses in the Palace",
+    "originalTitle": "甄嬛传",
+    "overview": "Zhen Huan, a 17-year-old innocent introduced into the imperial court as the latest concubine of Emperor Yong Zheng. Her dreams of a new life of love and prosperity are swiftly dashed as she enters a dog-eat-dog world of treachery and corruption.",
+    "poster": "https://image.tmdb.org/t/p/w500/gLJ1d3OHxYOkiBCNNPJA1lzehjI.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/gLJ1d3OHxYOkiBCNNPJA1lzehjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oaEIYMBx3IEtjWzyDyHu9MTtuv8.jpg",
+    "rating": 8.6,
+    "voteCount": 71,
+    "firstAired": "2011-11-17",
+    "year": "2011",
+    "genreIds": [
+      18
+    ],
+    "popularity": 14.6785,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 13923,
+    "title": "Journey to the West",
+    "originalTitle": "西游记",
+    "overview": "Journey to the West is a Chinese television series adapted from the classical novel of the same title. The series was first broadcast on CCTV in China on 1 October 1986. The series became an instant classic in China and is still being praised as the best and most authentic interpretation of the novel. Unadapted portions of the original story were later covered in the second season, which was released in 1999.",
+    "poster": "https://image.tmdb.org/t/p/w500/bAl4rX85qVbGeVslvQqFRDHsQ6X.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bAl4rX85qVbGeVslvQqFRDHsQ6X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
+    "rating": 8.4,
+    "voteCount": 66,
+    "firstAired": "1986-02-09",
+    "year": "1986",
+    "genreIds": [
+      10759,
+      18
+    ],
+    "popularity": 14.9741,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 225008,
+    "title": "The Long Season",
+    "originalTitle": "漫长的季节",
+    "overview": "The 12-episode series follows Wang Xiang, an ex-train driver who had worked his whole life at the steel plant in a fictional small town in North China, as he attempts to solve the mystery behind a brutal murder during the autumn of 1998. For more than 20 years, the murder has haunted him and other people who worked at the steel plant as they struggled to come to terms with the loss they’ve experienced.",
+    "poster": "https://image.tmdb.org/t/p/w500/7b4u442wN7AEmK1VxbLdIfS6Dxo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/7b4u442wN7AEmK1VxbLdIfS6Dxo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
+    "rating": 8.8,
+    "voteCount": 114,
+    "firstAired": "2023-04-22",
+    "year": "2023",
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 15.7187,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 210733,
+    "title": "Hidden Love",
+    "originalTitle": "偷偷藏不住",
+    "overview": "Since high school, Sang Zhi has had a crush on Duan Jiaxu. When fate brings them together again, they find a chance to embark on a sweet relationship.",
+    "poster": "https://image.tmdb.org/t/p/w500/riGzESa9N9toumP9OhMmg0QvFPD.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/riGzESa9N9toumP9OhMmg0QvFPD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wQlJJJ50gKphCci0SmoetUXmJN4.jpg",
+    "rating": 8.5,
+    "voteCount": 245,
+    "firstAired": "2023-06-20",
+    "year": "2023",
+    "genreIds": [
+      18
+    ],
+    "popularity": 16.0364,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 137206,
+    "title": "Till The End of The Moon",
+    "originalTitle": "长月烬明",
+    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
+    "poster": "https://image.tmdb.org/t/p/w500/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
+    "rating": 8.3,
+    "voteCount": 63,
+    "firstAired": "2023-04-06",
+    "year": "2023",
+    "genreIds": [
+      18
+    ],
+    "popularity": 12.63,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -477,7 +619,7 @@
       18,
       10765
     ],
-    "popularity": 15.0827,
+    "popularity": 14.1716,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -486,48 +628,30 @@
     ]
   },
   {
-    "id": 50878,
-    "title": "Empresses in the Palace",
-    "originalTitle": "甄嬛传",
-    "overview": "Zhen Huan, a 17-year-old innocent introduced into the imperial court as the latest concubine of Emperor Yong Zheng. Her dreams of a new life of love and prosperity are swiftly dashed as she enters a dog-eat-dog world of treachery and corruption.",
-    "poster": "https://image.tmdb.org/t/p/w500/gLJ1d3OHxYOkiBCNNPJA1lzehjI.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/gLJ1d3OHxYOkiBCNNPJA1lzehjI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oaEIYMBx3IEtjWzyDyHu9MTtuv8.jpg",
-    "rating": 8.6,
-    "voteCount": 69,
-    "firstAired": "2011-11-17",
-    "year": "2011",
+    "id": 123542,
+    "title": "LINK CLICK",
+    "originalTitle": "时光代理人",
+    "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
+    "poster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
+    "rating": 8.2,
+    "voteCount": 111,
+    "firstAired": "2021-04-30",
+    "year": "2021",
     "genreIds": [
+      16,
+      10765,
+      9648,
       18
     ],
-    "popularity": 14.4961,
+    "popularity": 13.537,
     "language": "zh",
     "country": "CN",
     "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 13923,
-    "title": "Journey to the West",
-    "originalTitle": "西游记",
-    "overview": "Journey to the West is a Chinese television series adapted from the classical novel of the same title. The series was first broadcast on CCTV in China on 1 October 1986. The series became an instant classic in China and is still being praised as the best and most authentic interpretation of the novel. Unadapted portions of the original story were later covered in the second season, which was released in 1999.",
-    "poster": "https://image.tmdb.org/t/p/w500/bAl4rX85qVbGeVslvQqFRDHsQ6X.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/bAl4rX85qVbGeVslvQqFRDHsQ6X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
-    "rating": 8.4,
-    "voteCount": 65,
-    "firstAired": "1986-02-09",
-    "year": "1986",
-    "genreIds": [
-      10759,
-      18
-    ],
-    "popularity": 14.9752,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Mystery",
       "Drama"
     ]
   },
@@ -540,109 +664,13 @@
     "posterSmall": "https://image.tmdb.org/t/p/w185/taqGVujrSxaRrEXuGlIHGVRi3m4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/4pBohJyXnAf7yvzyMTD1953RIjY.jpg",
     "rating": 8.9,
-    "voteCount": 75,
+    "voteCount": 76,
     "firstAired": "2015-09-19",
     "year": "2015",
     "genreIds": [
       18
     ],
-    "popularity": 13.7755,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 225008,
-    "title": "The Long Season",
-    "originalTitle": "漫长的季节",
-    "overview": "The 12-episode series follows Wang Xiang, an ex-train driver who had worked his whole life at the steel plant in a fictional small town in North China, as he attempts to solve the mystery behind a brutal murder during the autumn of 1998. For more than 20 years, the murder has haunted him and other people who worked at the steel plant as they struggled to come to terms with the loss they’ve experienced.",
-    "poster": "https://image.tmdb.org/t/p/w500/7b4u442wN7AEmK1VxbLdIfS6Dxo.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/7b4u442wN7AEmK1VxbLdIfS6Dxo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
-    "rating": 8.8,
-    "voteCount": 113,
-    "firstAired": "2023-04-22",
-    "year": "2023",
-    "genreIds": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 12.4827,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  {
-    "id": 210733,
-    "title": "Hidden Love",
-    "originalTitle": "偷偷藏不住",
-    "overview": "Since high school, Sang Zhi has had a crush on Duan Jiaxu. When fate brings them together again, they find a chance to embark on a sweet relationship.",
-    "poster": "https://image.tmdb.org/t/p/w500/riGzESa9N9toumP9OhMmg0QvFPD.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/riGzESa9N9toumP9OhMmg0QvFPD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wQlJJJ50gKphCci0SmoetUXmJN4.jpg",
-    "rating": 8.5,
-    "voteCount": 243,
-    "firstAired": "2023-06-20",
-    "year": "2023",
-    "genreIds": [
-      18
-    ],
-    "popularity": 15.2629,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 64709,
-    "title": "My Own Swordsman",
-    "originalTitle": "武林外传",
-    "overview": "A comedy about some friends and their stories in Qixia Town.",
-    "poster": "https://image.tmdb.org/t/p/w500/v6roq2SBQf58flUlau5khcK2Mni.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/v6roq2SBQf58flUlau5khcK2Mni.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7pafv6rEW6M0GtKjg3oVKjD4cjw.jpg",
-    "rating": 8.9,
-    "voteCount": 67,
-    "firstAired": "2006-01-02",
-    "year": "2006",
-    "genreIds": [
-      35,
-      18,
-      10751
-    ],
-    "popularity": 10.3286,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ]
-  },
-  {
-    "id": 82817,
-    "title": "Go Go Squid!",
-    "originalTitle": "亲爱的，热爱的",
-    "overview": "Tong Nian is a genius 19-year-old student with high IQ and low EQ, who is also a famous anime cosplay person and sings well. She’s falls in love at first sight with Han Shang Yan, who is a game genius in the e-sports world and never pays attention to the girls.",
-    "poster": "https://image.tmdb.org/t/p/w500/xWnuIoWFejrYJXeEyJYUH4ILlVo.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/xWnuIoWFejrYJXeEyJYUH4ILlVo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uRoJOzn3K7cEwyjsQdkQ9Is9Ikb.jpg",
-    "rating": 8.1,
-    "voteCount": 169,
-    "firstAired": "2019-07-09",
-    "year": "2019",
-    "genreIds": [
-      18
-    ],
-    "popularity": 10.0748,
+    "popularity": 11.6761,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -657,8 +685,8 @@
     "poster": "https://image.tmdb.org/t/p/w500/buXHm2shttFRQIBsCFlv5L2TmKh.jpg",
     "posterSmall": "https://image.tmdb.org/t/p/w185/buXHm2shttFRQIBsCFlv5L2TmKh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zxfBtHz5UmSTfIEC4O4GngyjHwa.jpg",
-    "rating": 7.9,
-    "voteCount": 247,
+    "rating": 7.8,
+    "voteCount": 248,
     "firstAired": "2023-01-15",
     "year": "2023",
     "genreIds": [
@@ -666,35 +694,13 @@
       9648,
       10765
     ],
-    "popularity": 10.168,
+    "popularity": 12.6722,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama",
       "Mystery",
       "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id": 137206,
-    "title": "Till The End of The Moon",
-    "originalTitle": "长月烬明",
-    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
-    "poster": "https://image.tmdb.org/t/p/w500/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "rating": 8.3,
-    "voteCount": 63,
-    "firstAired": "2023-04-06",
-    "year": "2023",
-    "genreIds": [
-      18
-    ],
-    "popularity": 10.5689,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
     ]
   },
   {
@@ -713,7 +719,7 @@
       35,
       18
     ],
-    "popularity": 10.8273,
+    "popularity": 11.0734,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -722,127 +728,47 @@
     ]
   },
   {
-    "id": 272059,
-    "title": "TO BE HERO X",
-    "originalTitle": "凸变英雄X",
-    "overview": "In a world full of brilliant heroes, it’s the trust of fans that turns heroes into superheroes. If a hero loses the people’s trust, they lose their special abilities. Trust value is collected, quantified, and used to determine a hero’s ranking, displayed on their wrist. Every two years, the top heroes go to a tournament to fight, determine new trust values, and earn their rankings.",
-    "poster": "https://image.tmdb.org/t/p/w500/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4b0oKiGtlwX19b0y6tQQC1ea0o5.jpg",
-    "rating": 8.7,
-    "voteCount": 118,
-    "firstAired": "2025-04-06",
-    "year": "2025",
-    "genreIds": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 10.967,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id": 123542,
-    "title": "LINK CLICK",
-    "originalTitle": "时光代理人",
-    "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
-    "poster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-    "rating": 8.2,
-    "voteCount": 109,
-    "firstAired": "2021-04-30",
-    "year": "2021",
-    "genreIds": [
-      16,
-      10765,
-      9648,
-      18
-    ],
-    "popularity": 11.2715,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Sci-Fi & Fantasy",
-      "Mystery",
-      "Drama"
-    ]
-  },
-  {
-    "id": 127493,
-    "title": "You Are My Glory",
-    "originalTitle": "你是我的荣耀",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "poster": "https://image.tmdb.org/t/p/w500/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "rating": 8.2,
-    "voteCount": 67,
-    "firstAired": "2021-07-26",
-    "year": "2021",
-    "genreIds": [
-      35,
-      18
-    ],
-    "popularity": 8.2174,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ]
-  },
-  {
-    "id": 252640,
-    "title": "Legend of Zang Hai",
-    "originalTitle": "藏海传",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "poster": "https://image.tmdb.org/t/p/w500/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "rating": 6.8,
-    "voteCount": 64,
-    "firstAired": "2025-05-18",
-    "year": "2025",
-    "genreIds": [
-      18
-    ],
-    "popularity": 9.8582,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 69316,
-    "title": "Eternal Love",
-    "originalTitle": "三生三世十里桃花",
-    "overview": "Three hundred years ago, Bai Qian stood on the Zhu Xian Terrace, turned around and jumped off without regret. Ye Hua stood by the bronze mirror to witness with his own eyes her death. Three hundred years later, in the East Sea Dragon Palace, the two meet unexpectedly. Another lifetime another world, after suffering betrayal Bai Qian no longer feels anything, yet she can't seem to comprehend Ye Hua's actions. Three lives three worlds, her and him, are they fated to love again?",
-    "poster": "https://image.tmdb.org/t/p/w500/paeDktO7Bx2lmv9mEDiHtneoYrF.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/paeDktO7Bx2lmv9mEDiHtneoYrF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wLbQlNHDBYTbrsrffeYPG9KlCLy.jpg",
-    "rating": 7.8,
-    "voteCount": 67,
-    "firstAired": "2017-01-30",
+    "id": 71673,
+    "title": "Princess Agents",
+    "originalTitle": "特工皇妃楚乔传",
+    "overview": "During the Warring Period, slave girl Chu Qiao survives a deadly hunting game and is drawn into the ruthless power struggles of the Yuwen family. Trained by Yuwen Yue and bonded with Prince Yan Xun, she faces betrayal and war. As Yan Xun becomes consumed by revenge, Chu Qiao forges her own path, rising as a military strategist and fighting to end slavery.",
+    "poster": "https://image.tmdb.org/t/p/w500/ryD5pRIG4YCcRhd0imRu3A2XZ18.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ryD5pRIG4YCcRhd0imRu3A2XZ18.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/no8e871eeA9RJDFxvuQqSnwrPMZ.jpg",
+    "rating": 7.6,
+    "voteCount": 228,
+    "firstAired": "2017-06-05",
     "year": "2017",
     "genreIds": [
-      18,
-      10765
+      18
     ],
-    "popularity": 8.6267,
+    "popularity": 9.7221,
     "language": "zh",
     "country": "CN",
     "genres": [
-      "Drama",
-      "Sci-Fi & Fantasy"
+      "Drama"
+    ]
+  },
+  {
+    "id": 256128,
+    "title": "The Best Thing",
+    "originalTitle": "爱你",
+    "overview": "Suffering from insomnia and migraines, Shen Xifan consults a traditional Chinese medicine doctor, He Suye. As their lives intersect, an unexpected romance blossoms.",
+    "poster": "https://image.tmdb.org/t/p/w500/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7KBu3AIlVJXxbkGBCm9FV4JUgLR.jpg",
+    "rating": 7.9,
+    "voteCount": 54,
+    "firstAired": "2025-02-25",
+    "year": "2025",
+    "genreIds": [
+      18
+    ],
+    "popularity": 9.8401,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
     ]
   },
   {
@@ -861,7 +787,7 @@
       16,
       10759
     ],
-    "popularity": 11.0165,
+    "popularity": 10.2859,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -870,147 +796,29 @@
     ]
   },
   {
-    "id": 71673,
-    "title": "Princess Agents",
-    "originalTitle": "特工皇妃楚乔传",
-    "overview": "During the Warring Period, slave girl Chu Qiao survives a deadly hunting game and is drawn into the ruthless power struggles of the Yuwen family. Trained by Yuwen Yue and bonded with Prince Yan Xun, she faces betrayal and war. As Yan Xun becomes consumed by revenge, Chu Qiao forges her own path, rising as a military strategist and fighting to end slavery.",
-    "poster": "https://image.tmdb.org/t/p/w500/ryD5pRIG4YCcRhd0imRu3A2XZ18.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/ryD5pRIG4YCcRhd0imRu3A2XZ18.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/no8e871eeA9RJDFxvuQqSnwrPMZ.jpg",
-    "rating": 7.5,
-    "voteCount": 227,
-    "firstAired": "2017-06-05",
-    "year": "2017",
+    "id": 64709,
+    "title": "My Own Swordsman",
+    "originalTitle": "武林外传",
+    "overview": "A comedy about some friends and their stories in Qixia Town.",
+    "poster": "https://image.tmdb.org/t/p/w500/v6roq2SBQf58flUlau5khcK2Mni.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/v6roq2SBQf58flUlau5khcK2Mni.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7pafv6rEW6M0GtKjg3oVKjD4cjw.jpg",
+    "rating": 8.9,
+    "voteCount": 68,
+    "firstAired": "2006-01-02",
+    "year": "2006",
     "genreIds": [
-      18
-    ],
-    "popularity": 8.9359,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 279182,
-    "title": "Super Cube",
-    "originalTitle": "超能立方",
-    "overview": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. Wang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.",
-    "poster": "https://image.tmdb.org/t/p/w500/bkeiYRYgQjJBItx9x3Fnia2XT3t.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/bkeiYRYgQjJBItx9x3Fnia2XT3t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-    "rating": 8.1,
-    "voteCount": 90,
-    "firstAired": "2025-03-21",
-    "year": "2025",
-    "genreIds": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 8.4031,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id": 107329,
-    "title": "Go Ahead",
-    "originalTitle": "以家人之名",
-    "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
-    "poster": "https://image.tmdb.org/t/p/w500/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
-    "rating": 8.4,
-    "voteCount": 211,
-    "firstAired": "2020-08-10",
-    "year": "2020",
-    "genreIds": [
+      35,
       18,
-      10751,
-      35
+      10751
     ],
-    "popularity": 8.8802,
+    "popularity": 8.2153,
     "language": "zh",
     "country": "CN",
     "genres": [
+      "Comedy",
       "Drama",
-      "Family",
-      "Comedy"
-    ]
-  },
-  {
-    "id": 256128,
-    "title": "The Best Thing",
-    "originalTitle": "爱你",
-    "overview": "Suffering from insomnia and migraines, Shen Xifan consults a traditional Chinese medicine doctor, He Suye. As their lives intersect, an unexpected romance blossoms.",
-    "poster": "https://image.tmdb.org/t/p/w500/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7KBu3AIlVJXxbkGBCm9FV4JUgLR.jpg",
-    "rating": 7.9,
-    "voteCount": 54,
-    "firstAired": "2025-02-25",
-    "year": "2025",
-    "genreIds": [
-      18
-    ],
-    "popularity": 8.5066,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama"
-    ]
-  },
-  {
-    "id": 228547,
-    "title": "When I Fly Towards You",
-    "originalTitle": "当我飞奔向你",
-    "overview": "Set off by a sweet chance encounter, 16-year-old Su Zaizai finds herself helplessly drawn to Zhang Lurang — her smart, charming yet distant schoolmate.",
-    "poster": "https://image.tmdb.org/t/p/w500/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
-    "rating": 8.7,
-    "voteCount": 108,
-    "firstAired": "2023-06-13",
-    "year": "2023",
-    "genreIds": [
-      18,
-      35
-    ],
-    "popularity": 7.6031,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ]
-  },
-  {
-    "id": 66776,
-    "title": "Love O2O",
-    "originalTitle": "微微一笑很傾城",
-    "overview": "When campus heartthrob and gaming genius Xiao Nai spots Bei Weiwei dominating a guild battle with unmatched skill and calm, he’s smitten. Determined to win her heart, Xiao Nai pursues her both online and offline, leading to a charming, slow-burn romance between two brilliant minds.",
-    "poster": "https://image.tmdb.org/t/p/w500/zqXrBP6CRAX5FkAszdTWWHOb2bY.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/zqXrBP6CRAX5FkAszdTWWHOb2bY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nGiSkbf77sHfLVsp0UkPSoH89hy.jpg",
-    "rating": 6.8,
-    "voteCount": 100,
-    "firstAired": "2016-08-22",
-    "year": "2016",
-    "genreIds": [
-      18,
-      35
-    ],
-    "popularity": 6.8431,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy"
+      "Family"
     ]
   },
   {
@@ -1028,7 +836,29 @@
     "genreIds": [
       18
     ],
-    "popularity": 7.456,
+    "popularity": 9.4872,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 252640,
+    "title": "Legend of Zang Hai",
+    "originalTitle": "藏海传",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "poster": "https://image.tmdb.org/t/p/w500/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "rating": 6.8,
+    "voteCount": 64,
+    "firstAired": "2025-05-18",
+    "year": "2025",
+    "genreIds": [
+      18
+    ],
+    "popularity": 10.0441,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1051,7 +881,7 @@
       10759,
       18
     ],
-    "popularity": 7.2,
+    "popularity": 10.4512,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1060,105 +890,77 @@
     ]
   },
   {
-    "id": 105053,
-    "title": "The Long Night",
-    "originalTitle": "沉默的真相",
-    "overview": "It was an open shut case with hundred of witnesses seeing the murder suspect trying to dispose of a body and a signed confession from the suspect himself.  And yet when the case was ready for court, the prosecutor discovered that the case was not as it appeared. The murder was but a cover for another more shocking injustice. He spent ten years trying to uncover the truth, toiling away his youth, his career, his reputation, his family, and even his life.",
-    "poster": "https://image.tmdb.org/t/p/w500/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kZwfEXUD3OoxSf2wcUzsnltg06L.jpg",
-    "rating": 8.5,
-    "voteCount": 62,
-    "firstAired": "2020-09-16",
+    "id": 127493,
+    "title": "You Are My Glory",
+    "originalTitle": "你是我的荣耀",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "poster": "https://image.tmdb.org/t/p/w500/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "rating": 8.2,
+    "voteCount": 67,
+    "firstAired": "2021-07-26",
+    "year": "2021",
+    "genreIds": [
+      35,
+      18
+    ],
+    "popularity": 8.7889,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 107329,
+    "title": "Go Ahead",
+    "originalTitle": "以家人之名",
+    "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
+    "poster": "https://image.tmdb.org/t/p/w500/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
+    "rating": 8.4,
+    "voteCount": 211,
+    "firstAired": "2020-08-10",
     "year": "2020",
     "genreIds": [
       18,
-      9648,
-      80
+      10751,
+      35
     ],
-    "popularity": 11.0225,
+    "popularity": 9.6714,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama",
-      "Mystery",
-      "Crime"
+      "Family",
+      "Comedy"
     ]
   },
   {
-    "id": 79818,
-    "title": "Meteor Garden",
-    "originalTitle": "流星花园",
-    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
-    "poster": "https://image.tmdb.org/t/p/w500/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
-    "rating": 8.5,
-    "voteCount": 610,
-    "firstAired": "2018-07-09",
-    "year": "2018",
-    "genreIds": [
-      18,
-      10751
-    ],
-    "popularity": 8.8745,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Family"
-    ]
-  },
-  {
-    "id": 73982,
-    "title": "Day and Night",
-    "originalTitle": "白夜追凶",
-    "overview": "Twin brothers Guan Hongfeng and Guan Hongyu find themselves caught up in a brutal massacre that destroyed their family. As they face off against a shadowy criminal organization, they join forces with others to uncover the truth behind the 213 massacre.",
-    "poster": "https://image.tmdb.org/t/p/w500/uuKmigg4WuduZMJKIzJ8UP02pRg.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/uuKmigg4WuduZMJKIzJ8UP02pRg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fBClDP2SLBn4NlqYSMkZwky3VEp.jpg",
-    "rating": 8.3,
-    "voteCount": 56,
-    "firstAired": "2017-08-30",
+    "id": 69316,
+    "title": "Eternal Love",
+    "originalTitle": "三生三世十里桃花",
+    "overview": "Three hundred years ago, Bai Qian stood on the Zhu Xian Terrace, turned around and jumped off without regret. Ye Hua stood by the bronze mirror to witness with his own eyes her death. Three hundred years later, in the East Sea Dragon Palace, the two meet unexpectedly. Another lifetime another world, after suffering betrayal Bai Qian no longer feels anything, yet she can't seem to comprehend Ye Hua's actions. Three lives three worlds, her and him, are they fated to love again?",
+    "poster": "https://image.tmdb.org/t/p/w500/paeDktO7Bx2lmv9mEDiHtneoYrF.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/paeDktO7Bx2lmv9mEDiHtneoYrF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wLbQlNHDBYTbrsrffeYPG9KlCLy.jpg",
+    "rating": 7.8,
+    "voteCount": 67,
+    "firstAired": "2017-01-30",
     "year": "2017",
     "genreIds": [
-      80,
       18,
-      9648
+      10765
     ],
-    "popularity": 5.7041,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  {
-    "id": 210757,
-    "title": "The Knockout",
-    "originalTitle": "狂飙",
-    "overview": "20 years of perseverance, hot-blooded teenagers finally become the people's hero.",
-    "poster": "https://image.tmdb.org/t/p/w500/lj59bRXsKXuAKr5M6YzajnKvnT7.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/lj59bRXsKXuAKr5M6YzajnKvnT7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/i4xRsWEAwGgL5wMm8jrBbxxXKEI.jpg",
-    "rating": 8.2,
-    "voteCount": 108,
-    "firstAired": "2023-01-14",
-    "year": "2023",
-    "genreIds": [
-      18,
-      10759,
-      80
-    ],
-    "popularity": 7.355,
+    "popularity": 7.9368,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama",
-      "Action & Adventure",
-      "Crime"
+      "Sci-Fi & Fantasy"
     ]
   },
   {
@@ -1177,12 +979,82 @@
       16,
       10765
     ],
-    "popularity": 6.983,
+    "popularity": 7.459,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Animation",
       "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 228547,
+    "title": "When I Fly Towards You",
+    "originalTitle": "当我飞奔向你",
+    "overview": "Set off by a sweet chance encounter, 16-year-old Su Zaizai finds herself helplessly drawn to Zhang Lurang — her smart, charming yet distant schoolmate.",
+    "poster": "https://image.tmdb.org/t/p/w500/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
+    "rating": 8.7,
+    "voteCount": 108,
+    "firstAired": "2023-06-13",
+    "year": "2023",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 8.64,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 82817,
+    "title": "Go Go Squid!",
+    "originalTitle": "亲爱的，热爱的",
+    "overview": "Tong Nian is a genius 19-year-old student with high IQ and low EQ, who is also a famous anime cosplay person and sings well. She’s falls in love at first sight with Han Shang Yan, who is a game genius in the e-sports world and never pays attention to the girls.",
+    "poster": "https://image.tmdb.org/t/p/w500/xWnuIoWFejrYJXeEyJYUH4ILlVo.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/xWnuIoWFejrYJXeEyJYUH4ILlVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uRoJOzn3K7cEwyjsQdkQ9Is9Ikb.jpg",
+    "rating": 8.1,
+    "voteCount": 170,
+    "firstAired": "2019-07-09",
+    "year": "2019",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.6368,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 79818,
+    "title": "Meteor Garden",
+    "originalTitle": "流星花园",
+    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
+    "poster": "https://image.tmdb.org/t/p/w500/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
+    "rating": 8.5,
+    "voteCount": 612,
+    "firstAired": "2018-07-09",
+    "year": "2018",
+    "genreIds": [
+      18,
+      10751
+    ],
+    "popularity": 9.1061,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Family"
     ]
   },
   {
@@ -1202,13 +1074,211 @@
       10765,
       10759
     ],
-    "popularity": 7.1879,
+    "popularity": 7.3916,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Animation",
       "Sci-Fi & Fantasy",
       "Action & Adventure"
+    ]
+  },
+  {
+    "id": 279182,
+    "title": "Super Cube",
+    "originalTitle": "超能立方",
+    "overview": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. Wang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.",
+    "poster": "https://image.tmdb.org/t/p/w500/bkeiYRYgQjJBItx9x3Fnia2XT3t.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/bkeiYRYgQjJBItx9x3Fnia2XT3t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+    "rating": 8.1,
+    "voteCount": 91,
+    "firstAired": "2025-03-21",
+    "year": "2025",
+    "genreIds": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 7.7724,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 66776,
+    "title": "Love O2O",
+    "originalTitle": "微微一笑很傾城",
+    "overview": "When campus heartthrob and gaming genius Xiao Nai spots Bei Weiwei dominating a guild battle with unmatched skill and calm, he’s smitten. Determined to win her heart, Xiao Nai pursues her both online and offline, leading to a charming, slow-burn romance between two brilliant minds.",
+    "poster": "https://image.tmdb.org/t/p/w500/zqXrBP6CRAX5FkAszdTWWHOb2bY.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/zqXrBP6CRAX5FkAszdTWWHOb2bY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nGiSkbf77sHfLVsp0UkPSoH89hy.jpg",
+    "rating": 6.8,
+    "voteCount": 100,
+    "firstAired": "2016-08-22",
+    "year": "2016",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 7.2501,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 210757,
+    "title": "The Knockout",
+    "originalTitle": "狂飙",
+    "overview": "20 years of perseverance, hot-blooded teenagers finally become the people's hero.",
+    "poster": "https://image.tmdb.org/t/p/w500/lj59bRXsKXuAKr5M6YzajnKvnT7.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/lj59bRXsKXuAKr5M6YzajnKvnT7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lKK5OrmQHGPrPE1k1vebT7Af2hl.jpg",
+    "rating": 8.2,
+    "voteCount": 108,
+    "firstAired": "2023-01-14",
+    "year": "2023",
+    "genreIds": [
+      18,
+      10759,
+      80
+    ],
+    "popularity": 6.3075,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ]
+  },
+  {
+    "id": 105053,
+    "title": "The Long Night",
+    "originalTitle": "沉默的真相",
+    "overview": "It was an open shut case with hundred of witnesses seeing the murder suspect trying to dispose of a body and a signed confession from the suspect himself.  And yet when the case was ready for court, the prosecutor discovered that the case was not as it appeared. The murder was but a cover for another more shocking injustice. He spent ten years trying to uncover the truth, toiling away his youth, his career, his reputation, his family, and even his life.",
+    "poster": "https://image.tmdb.org/t/p/w500/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/wU5L7mZA0Yy764D1WPP2403d0MG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kZwfEXUD3OoxSf2wcUzsnltg06L.jpg",
+    "rating": 8.5,
+    "voteCount": 62,
+    "firstAired": "2020-09-16",
+    "year": "2020",
+    "genreIds": [
+      18,
+      9648,
+      80
+    ],
+    "popularity": 6.2321,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ]
+  },
+  {
+    "id": 73982,
+    "title": "Day and Night",
+    "originalTitle": "白夜追凶",
+    "overview": "Twin brothers Guan Hongfeng and Guan Hongyu find themselves caught up in a brutal massacre that destroyed their family. As they face off against a shadowy criminal organization, they join forces with others to uncover the truth behind the 213 massacre.",
+    "poster": "https://image.tmdb.org/t/p/w500/uuKmigg4WuduZMJKIzJ8UP02pRg.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/uuKmigg4WuduZMJKIzJ8UP02pRg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fBClDP2SLBn4NlqYSMkZwky3VEp.jpg",
+    "rating": 8.3,
+    "voteCount": 57,
+    "firstAired": "2017-08-30",
+    "year": "2017",
+    "genreIds": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 6.5238,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 98830,
+    "title": "Find Yourself",
+    "originalTitle": "下一站是幸福",
+    "overview": "A love story between an accomplished career woman and a younger man... He Fan Xing's company is at risk of being acquired, while her relationship with Yuan Song faces societal pressures due to their age difference. The consecutive blows in her work and love life push her to an emotional quagmire, and it is during this time that Ye Lu Ming enters her life. Being older in age, he is mature, stable and knowledgeable. He becomes He Fan Xing's life coach and the source of conflict between the couple. For He Fan Xing, it's not merely a matter of choosing the man that she loves, but considering the contradictions of adopting the traditional mindset on marriage.",
+    "poster": "https://image.tmdb.org/t/p/w500/twvQYgYdJZf9shuQBgM1wWxVy10.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/twvQYgYdJZf9shuQBgM1wWxVy10.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5izATIi4rJMbr6taWsIKqtg3a7L.jpg",
+    "rating": 7.6,
+    "voteCount": 118,
+    "firstAired": "2020-01-26",
+    "year": "2020",
+    "genreIds": [
+      18
+    ],
+    "popularity": 6.3031,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 117987,
+    "title": "You Are My Hero",
+    "originalTitle": "你是我的城池营垒",
+    "overview": "A story that follows Mi Ka, a new resident at the hospital who meets special ops agent Xing Kelei during an emergency rescue training organized by the SWAT team.",
+    "poster": "https://image.tmdb.org/t/p/w500/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bVP7mU2bL766SYaCOx669P9YZZ3.jpg",
+    "rating": 7.9,
+    "voteCount": 136,
+    "firstAired": "2021-03-11",
+    "year": "2021",
+    "genreIds": [
+      18
+    ],
+    "popularity": 8.4828,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 128926,
+    "title": "Unforgettable Love",
+    "originalTitle": "贺先生的恋恋不忘",
+    "overview": "He Qiaoyan, the stoic CEO of Heshi Group, and Qin Yiyue, a warm and optimistic child psychologist, find their relationship evolving from professional acquaintance to love when Qin Yiyue begins working with He Qiaoyan's son.",
+    "poster": "https://image.tmdb.org/t/p/w500/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nnL1jRtytnwuVrDyujk9zcCUOhy.jpg",
+    "rating": 8,
+    "voteCount": 67,
+    "firstAired": "2021-07-10",
+    "year": "2021",
+    "genreIds": [
+      18,
+      35,
+      10751
+    ],
+    "popularity": 6.4057,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Family"
     ]
   },
   {
@@ -1220,7 +1290,7 @@
     "posterSmall": "https://image.tmdb.org/t/p/w185/op0ZXBZodAc12CVqEN55KxD0FYe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/xWBD0BqiPsmXBZNeT6UMCMdMXvX.jpg",
     "rating": 7.9,
-    "voteCount": 56,
+    "voteCount": 57,
     "firstAired": "2021-02-22",
     "year": "2021",
     "genreIds": [
@@ -1229,7 +1299,7 @@
       10765,
       9648
     ],
-    "popularity": 6.1628,
+    "popularity": 7.0263,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1256,7 +1326,7 @@
       10765,
       10759
     ],
-    "popularity": 5.6145,
+    "popularity": 6.9365,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1266,96 +1336,78 @@
     ]
   },
   {
-    "id": 88548,
-    "title": "Put Your Head on My Shoulder",
-    "originalTitle": "致我们暖暖的小时光",
-    "overview": "As Si Tu Mo's graduation is nearing, she is confused about her future plans. Her ordinary days are suddenly shaken up when the genius Physics student Gu Wei Yi appears in her life. The two accidentally end up living together and chaos begins.",
-    "poster": "https://image.tmdb.org/t/p/w500/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cXa2nNeXDQXcBdkH82y2AMcpOOK.jpg",
-    "rating": 8,
-    "voteCount": 73,
-    "firstAired": "2019-04-10",
-    "year": "2019",
+    "id": 5953,
+    "title": "The Legend of Bruce Lee",
+    "originalTitle": "李小龍傳奇",
+    "overview": "The story of the legendary martial arts icon Bruce Lee following him from Hong Kong to America and back again, leading up to his tragic death at the age of 32.",
+    "poster": "https://image.tmdb.org/t/p/w500/t79JopFvZUhg2jaWB6ojIuMgKDz.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/t79JopFvZUhg2jaWB6ojIuMgKDz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/58LNeH9zfySWvyURYPkufOSDClk.jpg",
+    "rating": 7,
+    "voteCount": 55,
+    "firstAired": "2008-10-04",
+    "year": "2008",
     "genreIds": [
-      18,
-      35
-    ],
-    "popularity": 5.3585,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ]
-  },
-  {
-    "id": 128926,
-    "title": "Unforgettable Love",
-    "originalTitle": "贺先生的恋恋不忘",
-    "overview": "He Qiaoyan, the stoic CEO of Heshi Group, and Qin Yiyue, a warm and optimistic child psychologist, find their relationship evolving from professional acquaintance to love when Qin Yiyue begins working with He Qiaoyan's son.",
-    "poster": "https://image.tmdb.org/t/p/w500/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nnL1jRtytnwuVrDyujk9zcCUOhy.jpg",
-    "rating": 8,
-    "voteCount": 67,
-    "firstAired": "2021-07-10",
-    "year": "2021",
-    "genreIds": [
-      18,
-      35,
-      10751
-    ],
-    "popularity": 6.1149,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Comedy",
-      "Family"
-    ]
-  },
-  {
-    "id": 98830,
-    "title": "Find Yourself",
-    "originalTitle": "下一站是幸福",
-    "overview": "A love story between an accomplished career woman and a younger man... He Fan Xing's company is at risk of being acquired, while her relationship with Yuan Song faces societal pressures due to their age difference. The consecutive blows in her work and love life push her to an emotional quagmire, and it is during this time that Ye Lu Ming enters her life. Being older in age, he is mature, stable and knowledgeable. He becomes He Fan Xing's life coach and the source of conflict between the couple. For He Fan Xing, it's not merely a matter of choosing the man that she loves, but considering the contradictions of adopting the traditional mindset on marriage.",
-    "poster": "https://image.tmdb.org/t/p/w500/twvQYgYdJZf9shuQBgM1wWxVy10.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/twvQYgYdJZf9shuQBgM1wWxVy10.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5izATIi4rJMbr6taWsIKqtg3a7L.jpg",
-    "rating": 7.6,
-    "voteCount": 118,
-    "firstAired": "2020-01-26",
-    "year": "2020",
-    "genreIds": [
+      10759,
       18
     ],
-    "popularity": 5.0476,
+    "popularity": 5.6243,
     "language": "zh",
     "country": "CN",
     "genres": [
+      "Action & Adventure",
       "Drama"
     ]
   },
   {
-    "id": 117987,
-    "title": "You Are My Hero",
-    "originalTitle": "你是我的城池营垒",
-    "overview": "A story that follows Mi Ka, a new resident at the hospital who meets special ops agent Xing Kelei during an emergency rescue training organized by the SWAT team.",
-    "poster": "https://image.tmdb.org/t/p/w500/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bVP7mU2bL766SYaCOx669P9YZZ3.jpg",
-    "rating": 7.9,
-    "voteCount": 136,
-    "firstAired": "2021-03-11",
-    "year": "2021",
+    "id": 155441,
+    "title": "Reset",
+    "originalTitle": "开端",
+    "overview": "The lives of a college student and a video game designer are kept being reset after an explosion on a bus. During each reset, they have to work together to find out what the reason for the explosion is. Will these two be able to save themselves and their fellow passengers? Will they be able to close the time-loop?",
+    "poster": "https://image.tmdb.org/t/p/w500/ceAOKLPjGUbCOYtxXK7pQfpVVwb.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/ceAOKLPjGUbCOYtxXK7pQfpVVwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jG3tJ64c207xRuhvxskd9izGCsV.jpg",
+    "rating": 8.1,
+    "voteCount": 122,
+    "firstAired": "2022-01-11",
+    "year": "2022",
     "genreIds": [
-      18
+      18,
+      9648,
+      10765
     ],
-    "popularity": 5.5954,
+    "popularity": 4.4201,
     "language": "zh",
     "country": "CN",
     "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
+    "id": 104960,
+    "title": "The Bad Kids",
+    "originalTitle": "隐秘的角落",
+    "overview": "A story that follows three children from a coastal town who unintentionally film a murder scene. As the kids become involved with the suspect, it opens up a case that is far more complicated than it looks and entraps several families into an unpredictable outcome.",
+    "poster": "https://image.tmdb.org/t/p/w500/i8XHjbwBUbybCQoUJbT89JpcS1c.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/i8XHjbwBUbybCQoUJbT89JpcS1c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/22DU3JT5EJ6fCkCUB8iYgwI8stO.jpg",
+    "rating": 8.4,
+    "voteCount": 84,
+    "firstAired": "2020-06-16",
+    "year": "2020",
+    "genreIds": [
+      80,
+      9648,
+      18
+    ],
+    "popularity": 4.441,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Crime",
+      "Mystery",
       "Drama"
     ]
   },
@@ -1375,7 +1427,7 @@
       16,
       10759
     ],
-    "popularity": 4.7345,
+    "popularity": 3.843,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1384,98 +1436,22 @@
     ]
   },
   {
-    "id": 155441,
-    "title": "Reset",
-    "originalTitle": "开端",
-    "overview": "The lives of a college student and a video game designer are kept being reset after an explosion on a bus. During each reset, they have to work together to find out what the reason for the explosion is. Will these two be able to save themselves and their fellow passengers? Will they be able to close the time-loop?",
-    "poster": "https://image.tmdb.org/t/p/w500/ceAOKLPjGUbCOYtxXK7pQfpVVwb.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/ceAOKLPjGUbCOYtxXK7pQfpVVwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jG3tJ64c207xRuhvxskd9izGCsV.jpg",
-    "rating": 8.1,
-    "voteCount": 121,
-    "firstAired": "2022-01-11",
-    "year": "2022",
-    "genreIds": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 3.8791,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id": 104960,
-    "title": "The Bad Kids",
-    "originalTitle": "隐秘的角落",
-    "overview": "A story that follows three children from a coastal town who unintentionally film a murder scene. As the kids become involved with the suspect, it opens up a case that is far more complicated than it looks and entraps several families into an unpredictable outcome.",
-    "poster": "https://image.tmdb.org/t/p/w500/i8XHjbwBUbybCQoUJbT89JpcS1c.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/i8XHjbwBUbybCQoUJbT89JpcS1c.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/22DU3JT5EJ6fCkCUB8iYgwI8stO.jpg",
-    "rating": 8.4,
-    "voteCount": 82,
-    "firstAired": "2020-06-16",
-    "year": "2020",
-    "genreIds": [
-      80,
-      9648,
-      18
-    ],
-    "popularity": 4.0155,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Drama"
-    ]
-  },
-  {
-    "id": 5953,
-    "title": "The Legend of Bruce Lee",
-    "originalTitle": "李小龍傳奇",
-    "overview": "The story of the legendary martial arts icon Bruce Lee following him from Hong Kong to America and back again, leading up to his tragic death at the age of 32.",
-    "poster": "https://image.tmdb.org/t/p/w500/t79JopFvZUhg2jaWB6ojIuMgKDz.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/t79JopFvZUhg2jaWB6ojIuMgKDz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/58LNeH9zfySWvyURYPkufOSDClk.jpg",
-    "rating": 7,
-    "voteCount": 55,
-    "firstAired": "2008-10-04",
-    "year": "2008",
-    "genreIds": [
-      10759,
-      18
-    ],
-    "popularity": 4.7711,
-    "language": "zh",
-    "country": "CN",
-    "genres": [
-      "Action & Adventure",
-      "Drama"
-    ]
-  },
-  {
-    "id": 65890,
-    "title": "Addicted",
-    "originalTitle": "上瘾",
-    "overview": "Two high school students become entangled in a wildly conflicting emotional relationship that erupts when they discover they are now step-brothers.",
-    "poster": "https://image.tmdb.org/t/p/w500/tSYj6g0be7enulAYqzxVV7MjfWR.jpg",
-    "posterSmall": "https://image.tmdb.org/t/p/w185/tSYj6g0be7enulAYqzxVV7MjfWR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zUP9TgGVxpBi34iacGKeidTc61U.jpg",
-    "rating": 7.4,
-    "voteCount": 59,
-    "firstAired": "2016-01-29",
-    "year": "2016",
+    "id": 88548,
+    "title": "Put Your Head on My Shoulder",
+    "originalTitle": "致我们暖暖的小时光",
+    "overview": "As Si Tu Mo's graduation is nearing, she is confused about her future plans. Her ordinary days are suddenly shaken up when the genius Physics student Gu Wei Yi appears in her life. The two accidentally end up living together and chaos begins.",
+    "poster": "https://image.tmdb.org/t/p/w500/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cXa2nNeXDQXcBdkH82y2AMcpOOK.jpg",
+    "rating": 8,
+    "voteCount": 73,
+    "firstAired": "2019-04-10",
+    "year": "2019",
     "genreIds": [
       18,
       35
     ],
-    "popularity": 4.1234,
+    "popularity": 4.2131,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1501,7 +1477,7 @@
       10765,
       16
     ],
-    "popularity": 2.5246,
+    "popularity": 2.9033,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1528,13 +1504,37 @@
       35,
       10751
     ],
-    "popularity": 3.4905,
+    "popularity": 3.357,
     "language": "zh",
     "country": "CN",
     "genres": [
       "Drama",
       "Comedy",
       "Family"
+    ]
+  },
+  {
+    "id": 65890,
+    "title": "Addicted",
+    "originalTitle": "上瘾",
+    "overview": "Two high school students become entangled in a wildly conflicting emotional relationship that erupts when they discover they are now step-brothers.",
+    "poster": "https://image.tmdb.org/t/p/w500/tSYj6g0be7enulAYqzxVV7MjfWR.jpg",
+    "posterSmall": "https://image.tmdb.org/t/p/w185/tSYj6g0be7enulAYqzxVV7MjfWR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zUP9TgGVxpBi34iacGKeidTc61U.jpg",
+    "rating": 7.4,
+    "voteCount": 60,
+    "firstAired": "2016-01-29",
+    "year": "2016",
+    "genreIds": [
+      18,
+      35
+    ],
+    "popularity": 3.0025,
+    "language": "zh",
+    "country": "CN",
+    "genres": [
+      "Drama",
+      "Comedy"
     ]
   },
   {
@@ -1553,7 +1553,7 @@
       35,
       18
     ],
-    "popularity": 3.2419,
+    "popularity": 2.9842,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1576,7 +1576,7 @@
     "genreIds": [
       18
     ],
-    "popularity": 2.5828,
+    "popularity": 2.0381,
     "language": "zh",
     "country": "CN",
     "genres": [
@@ -1598,7 +1598,7 @@
     "genreIds": [
       18
     ],
-    "popularity": 0.5312,
+    "popularity": 0.9188,
     "language": "zh",
     "country": "CN",
     "genres": [
